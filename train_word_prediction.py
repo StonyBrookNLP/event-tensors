@@ -333,7 +333,7 @@ if __name__ == "__main__":
     ##############################################################################################
     FLAGS = parser.parse_args()
     embeddings=Glove(FLAGS.embedding_file)
-    instances=RandomizedQueuedInstances(FLAGS.svo_file, embeddings, FLAGS.num_queues)
+    instances=RandomizedQueuedInstances(FLAGS.svo_file, embeddings, FLAGS.num_queues, FLAGS.batch_size, FLAGS.max_phrase_size)
     train_network_with_embeddings(instances, embeddings)
 
 

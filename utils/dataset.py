@@ -219,6 +219,12 @@ class ContextOpenIE_Triple(OpenIE_Triple):
     def __str__(self):
         return "(%s, %s, %s, %s, %s) - %s \n %s \n %s \n" % (self.doc_id, self.sent_id, self.subject, self.verb, self.obj, self.sentence, self.before_sent, self.after_sent)
 
+def get_stopwords(filename="stopwords.txt"):
+    stopwords = []
+    with open(filename, 'r') as fi:
+        for line in fi:
+            stopwords.append(line.strip())
+    return stopwords
 
 
 

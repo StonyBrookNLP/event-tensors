@@ -10,16 +10,11 @@ import itertools
 import math
 import string
 from collections import deque
+import utils.dataset as dataset
 
-def get_stopwords(filename="stopwords.txt"):
-    stopwords = []
-    with open(filename, 'r') as fi:
-        for line in fi:
-            stopwords.append(line.strip())
-    return stopwords
 
 FLAGS = None
-stopwords = get_stopwords("./utils/stopwords_full.txt")
+stopwords = dataset.get_stopwords("./utils/stopwords_full.txt")
 translator = str.maketrans('','',string.punctuation)
 common_verbs = ['be', 'were', 'been', 'is', "'s", 'have', 'had', 'do', 'did', 'done', 'say', 'said', 'go', 'went', 'gone', 'get', 'got', 'gotton']
 auxilary_verbs = ['be', 'am', 'are', 'is', 'was', 'were', 'being', 'been', 'can', 'could', 'dare', 'do', 'does', 'did', 'have', 'has', 'had', 'having', 'may', 'might', 'must', 'ought', 'shall', 'should', 'will', 'would']
@@ -58,7 +53,7 @@ class SingleInstances:
 #This should be used for the word prediction objective (it will output samples in the format needed for the word prediction task
 class RandomizedQueuedInstances:
     'Class to generate only valid data instances, use a queue to add some randomization between the elements in the same document (and thus adding more randomness to the batch' 
-    def __init__(self, svo_file, embeddings, num_queues, batch_size):
+    def __init__(self, svo_file, embeddings, num_queues, batch_size, max_phrase_size):
         """
         String svo_file - the text file containing data in the proper format (ie data/ollie_extraction_data_newform_rand_train.txt)
         Int num_queues - the number of queues to use, the more queues, the less performance but the more randomized your batch will be
@@ -71,6 +66,7 @@ class RandomizedQueuedInstances:
         self.queues = [deque(maxlen=self.maxlen) for i in range(num_queues)]
         self.instances=SingleInstances(itertools.chain.from_iterable([iter(dataset.ContextualOpenIE_Dataset(svo_file))] + [itertools.repeat(None, 1)]))
         self.processed = 0 #how many instances we have generated
+        self.max_phrase_size=max_phrase_size
 
     def __iter__(self):
         while True:
@@ -95,9 +91,9 @@ class RandomizedQueuedInstances:
                 break
             svo = inst[0]
             label = inst[1]
-            sub_id, sub_w = self.embeddings.transform(svo.subject.split(), size=FLAGS.max_phrase_size)
-            verb_id, verb_w = self.embeddings.transform(svo.verb.split(), size=FLAGS.max_phrase_size)
-            obj_id, obj_w = self.embeddings.transform(svo.obj.split(), size=FLAGS.max_phrase_size)
+            sub_id, sub_w = self.embeddings.transform(svo.subject.split(), size=self.max_phrase_size)
+            verb_id, verb_w = self.embeddings.transform(svo.verb.split(), size=self.max_phrase_size)
+            obj_id, obj_w = self.embeddings.transform(svo.obj.split(), size=self.max_phrase_size)
             label_id = self.embeddings.id(label)
 
             if sub_id is not None and verb_id is not None and obj_id is not None and label_id is not None: 
@@ -113,13 +109,14 @@ class RandomizedQueuedInstances:
 
 class Instances: 
     'Class to generate valid OpenIE triples from the dataset, base class for NegativeInstances and InputTargetIterator (positive and negative instances) '
-    def __init__(self, dataset, embeddings):
+    def __init__(self, dataset, embeddings, max_phrase_size):
         """
         dataset should be a (possibly chained) OpenIE_Dataset iterator, embeddings should be a Glove object
         """
         self.dataset = dataset
         self.processed = 0 #how many instances we have generated
         self.embeddings = embeddings
+        self.max_phrase_size=max_phrase_size
     def __iter__(self):
         for svo in self.dataset:
             if not svo:  #end of the dataset
@@ -137,9 +134,9 @@ class NegativeInstances(Instances):
                 yield None
                 break
 
-            sub_id, sub_w = self.embeddings.transform(triple.subject.split(), size=FLAGS.max_phrase_size)
-            verb_id, verb_w = self.embeddings.transform(triple.verb.split(), size=FLAGS.max_phrase_size)
-            obj_id, obj_w = self.embeddings.transform(triple.obj.split(), size=FLAGS.max_phrase_size)
+            sub_id, sub_w = self.embeddings.transform(triple.subject.split(), size=self.max_phrase_size)
+            verb_id, verb_w = self.embeddings.transform(triple.verb.split(), size=self.max_phrase_size)
+            obj_id, obj_w = self.embeddings.transform(triple.obj.split(), size=self.max_phrase_size)
 
             if triple.verb not in common_verbs and 'said' not in triple.verb and sub_id is not None and verb_id is not None and obj_id is not None:  #check if we have a word embedding for this, and if its not common verb or said varient
                 instance = (triple, ((sub_id, sub_w), (verb_id, verb_w), (obj_id, obj_w)))
@@ -148,18 +145,20 @@ class NegativeInstances(Instances):
 
 class InputTargetIterator:
     'Class to generate pairs of tuples in the same document within a certain window (this produces the input and target instance for predict event objective'
-    def __init__(self,dataset, embeddings):
+    def __init__(self,dataset, embeddings, max_phrase_size, window=1):
         """DocOpenIE_Dataset dataset 
            Glove embeddings
         """
         self.documents=dataset
         self.processed=0
         self.embeddings=embeddings
+        self.max_phrase_size=max_phrase_size
+        self.window=window
 
     def get_ids(self, triple):
-        sub_id, sub_w = self.embeddings.transform(triple.sub.split(), size=FLAGS.max_phrase_size)
-        verb_id, verb_w = self.embeddings.transform(triple.verb.split(), size=FLAGS.max_phrase_size)
-        obj_id, obj_w = self.embeddings.transform(triple.obj.split(), size=FLAGS.max_phrase_size)
+        sub_id, sub_w = self.embeddings.transform(triple.sub.split(), size=self.max_phrase_size)
+        verb_id, verb_w = self.embeddings.transform(triple.verb.split(), size=self.max_phrase_size)
+        obj_id, obj_w = self.embeddings.transform(triple.obj.split(), size=self.max_phrase_size)
         instance = ((sub_id, sub_w), (verb_id, verb_w), (obj_id, obj_w))
 
         if sub_id is not None and verb_id is not None and obj_id is not None:  #check if we have a word embedding for this
@@ -176,12 +175,12 @@ class InputTargetIterator:
             for sent in doc.sentences:
                 tuples += sent.tuples
             tuples_data = [(x, self.get_ids(x)) for x in tuples if self.get_ids(x) is not None]
-            if len(tuples_data) > FLAGS.window:
-                for i in range(len(tuples_data) - FLAGS.window):
+            if len(tuples_data) > self.window:
+                for i in range(len(tuples_data) - self.window):
                     input_tuple = tuples_data[i][0] 
                     input_tuple_value = tuples_data[i][1]
                     if input_tuple.verb not in common_verbs and 'said' not in input_tuple.verb: #filter out stop events
-                        for j in range(1, FLAGS.window + 1): #get the targets (ie the next tuples)
+                        for j in range(1, self.window + 1): #get the targets (ie the next tuples)
                             target = tuples_data[i+j][0]
                             target_value = tuples_data[i+j][1]
                             if target.verb not in common_verbs and 'said' not in target.verb:  #filter out stop events
@@ -191,14 +190,14 @@ class InputTargetIterator:
 
 class EventPredQueuedInstances(RandomizedQueuedInstances):
     'This class is like RandomizedQueuedInstances, with a couple changes so it can be used for event prediction objective'
-    def __init__(self, svo_file, neg_svo_file, embeddings, num_queues):
+    def __init__(self, svo_file, neg_svo_file, embeddings, num_queues, batch_size):
         """
         dset should be a (possibly chained) Dataset iterator
         embeddings should be a Glove object
         """
         self.embeddings = embeddings
         self.num_queues=num_queues
-        self.maxlen=FLAGS.batch_size
+        self.maxlen=batch_size
         self.queues = [deque(maxlen=self.maxlen) for i in range(num_queues)]
         self.instances=iter(InputTargetIterator(dataset.DocOpenIE_Dataset(svo_file), embeddings))
         self.neg_instances=iter(NegativeInstances(dataset.OpenIE_Dataset(neg_svo_file), embeddings))
