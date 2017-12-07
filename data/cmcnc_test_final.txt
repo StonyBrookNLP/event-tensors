@@ -1,0 +1,3935 @@
+gorbachev|surprised|leaders
+letter|calling for|cooperation
+east|go beyond|agreements
+letter|element between|east
+officials|finished analyzing|it
+fitzwater|secretary of|house
+HOLDOUT_SEP
+process|begin exchange|information
+NEG_SEP
+leaders|domed packing as|possible
+east|acquired in|formula
+it|hopes make in|race
+roland|sentenced to|death
+union|seeking in|pursuit
+DOC_SEP
+rangers|want appear in|one
+rangers|want as|tradition
+they|beaten by|devils
+handshakes|polite on|sides
+rangers|saluted|fans
+sticks|tossed into|crowd
+HOLDOUT_SEP
+they|failed qualify for|playoffs
+NEG_SEP
+they|difficulties within|syndicate
+companies|holding since|darius
+building|called of|many
+they|graduated from|university
+they|look to|future
+DOC_SEP
+views|prevail in|race
+democrats|lamenting after|streak
+nominee|faced|storm
+poshard|liberal on|matters
+positions|given|chance
+poshard|opposed|ban
+HOLDOUT_SEP
+poshard|cast as|extremist
+NEG_SEP
+extremist|born at|1980
+democrats|spread in|iraq
+chicago|director of|operations
+ronen|el-reedy of|egypt
+rumsfeld|said to|him
+DOC_SEP
+brands|warned of|sales
+shares|fell on|week
+rival|declined|percent
+gateway|fell for|week
+shares|fell though|price
+exchange|spiked after|attacks
+oil|closed for|week
+HOLDOUT_SEP
+it|eliminate|jobs
+NEG_SEP
+team|led|midst
+week|vote on|saturday
+guard|post at|it
+it|become|woman
+one|remains|midst
+DOC_SEP
+runyan|finished|marathon
+women|led by|samuelson
+women|run|marathon
+runyan|queasy after|race
+HOLDOUT_SEP
+runyan|won|titles
+NEG_SEP
+samuelson|wrote in|ms.
+women|reaching by|1991
+man|using in|someone
+chance|beat for|victory
+chance|said to|lou
+DOC_SEP
+ship|slammed into|center
+ship|slammed leaving with|injuries
+ship|slammed punching through|wall
+company|attributed to|failure
+vessel|rammed into|piers
+vessel|created|pandemonium
+HOLDOUT_SEP
+rescuers|evacuated|hundreds
+NEG_SEP
+association|garnering in|angeles
+department|said in|building
+they|on|campuses
+company|wrote in|paper
+they|sought assure|government
+DOC_SEP
+dinner|given by|conservancy
+events|organizing for|years
+company|asked at|dinner
+foundation|provides to|americans
+HOLDOUT_SEP
+donations|tax-deductible as|expenses
+NEG_SEP
+weintraub|triumphs of|career
+issues|related to|necessary
+they|working in|america
+cosmetics|ambassador to|austria
+favor|replaced|roof
+DOC_SEP
+crew|debated|issues
+change|remarkable in|area
+team|done within|constraints
+chancellor|doing|job
+it|made|difference
+HOLDOUT_SEP
+chancellor|working within|system
+NEG_SEP
+constraints|said to|mollie
+petersburg|address in|it
+it|sounded conducting|orchestra
+people|animals in|macaques
+places|contribute to|dramatic
+DOC_SEP
+mother|as|pianist
+mother|decided teach|cello
+father|cautioned practice|much
+HOLDOUT_SEP
+he|become|musician
+NEG_SEP
+work|plagued by|problems
+much|tilt toward|restraint
+it|stopped in|bodrum
+parents|found in|office
+sonata|wonderful in|containers
+DOC_SEP
+remains|carried from|morgue
+he|taken in|march
+he|died after|torture
+he|kidnapped by|group
+identity|acknowledges by|c.i.a.
+agony|felt in|ranks
+HOLDOUT_SEP
+body|returned to|country
+NEG_SEP
+it|presence on|profile
+he|channel in|manhattan
+buckley|followed|workers
+he|time in|decade
+he|owned|house
+DOC_SEP
+inc.|editor of|magazine
+magazine|beginning in|january
+kirkland|editor of|fortune
+publications|remain|independent
+expansion|reflect|success
+HOLDOUT_SEP
+magazines|benefit from|leadership
+NEG_SEP
+success|won in|1935
+kirkland|asked before|tip-off
+publications|cited close to|board
+part|took in|month
+pearlstine|said to|eric
+DOC_SEP
+game|deserved|medal
+gold|earned by|canadians
+canadians|defeated for|championship
+medals|stripped from|skiers
+medals|stripped outside|rink
+skiers|tested for|drug
+controversy|immortalized as|judge
+people|evaluating|version
+HOLDOUT_SEP
+league|reach|agreement
+NEG_SEP
+street|interment at|center
+it|refuses spend|most
+one|colleague at|columbia
+other|known as|corporation
+other|keeps by|ban
+DOC_SEP
+universe|grown in|months
+universe|undermining|hegemony
+type|bringing to|internet
+people|publish|remarks
+bloggers|fire|thoughts
+site|built with|software
+bloggers|include|notes
+others|rant about|president
+woman|publishes|entries
+HOLDOUT_SEP
+companies|finding|opportunities
+NEG_SEP
+families|make to|it
+anything|enjoy|food
+internet|based in|qatar
+companies|expert of|consultancy
+accounts|opened in|president
+DOC_SEP
+states|lost|seat
+group|wrestling with|formula
+surprises|repeated in|formula
+task|rotate for|years
+memberships|divided among|groupings
+seats|thrown to|vote
+group|fails agree on|slate
+council|voted give to|france
+group|failed agree on|candidates
+HOLDOUT_SEP
+it|embarrassment for|nations
+NEG_SEP
+time|honor in|field
+it|laughed at|themselves
+weight|enter|rooms
+time|choose|contestant
+giants|taken|fourth
+DOC_SEP
+database|unveiled in|week
+database|starts with|proteins
+database|known as|atlas
+miguel|company in|philippines
+him|topple as|chairman
+miguel|chairman of|company
+chips|based on|line
+it|shipped|chips
+move|latest in|trend
+information|made in|database
+HOLDOUT_SEP
+foundation|created|database
+NEG_SEP
+demand|exceeds|company
+move|suffered|setback
+group|met in|company
+she|lived in|floor
+week|broke|pattern
+DOC_SEP
+bloomberg|leaves|town
+it|secret for|weekend
+he|intends guard|privacy
+he|leaves|town
+privacy|means|state
+reporters|put in|search
+bloomberg|playing in|bermuda
+bloomberg|owns|jet
+he|go to|bermuda
+he|return in|time
+HOLDOUT_SEP
+perkins|said in|bill
+NEG_SEP
+perkins|said in|yong
+it|prospect of|arena
+it|firing at|warplanes
+perkins|said with|smile
+work|enacted|change
+DOC_SEP
+wellstone|announced in|morning
+mild|form of|sclerosis
+limp|caused by|sclerosis
+treatment|affects|americans
+he|attributed for|years
+disease|affect|campaigning
+wellstone|said at|conference
+wellstone|in|condition
+wellstone|maintain|routine
+symptoms|tend with|form
+symptoms|tend worsen over|time
+HOLDOUT_SEP
+balance|tipping in|senate
+NEG_SEP
+senate|enable|traces
+time|relegating to|status
+paul|director of|clinic
+one|closed in|yesterday
+paul|sprained|ankle
+DOC_SEP
+games|marred by|announcement
+it|disqualifying|athletes
+it|stripping|two
+samples|tested for|drug
+he|won in|race
+she|won over|gold
+she|return|medals
+three|barred from|rest
+they|give|medals
+medals|earned before|tests
+officials|denied|offenses
+HOLDOUT_SEP
+blood|taken in|thursday
+NEG_SEP
+games|tied under|singh
+medals|occupied with|bow
+attendance|fell to|three
+actions|spy for|british
+samples|emitting|odors
+DOC_SEP
+iginla|came as|scorer
+game|brought to|nation
+he|came off|ice
+it|play with|players
+he|praised by|sakic
+he|spoke of|team
+accomplishment|more than|goals
+iginla|beamed at|suggestion
+he|inspire enter|sport
+HOLDOUT_SEP
+children|enter|sport
+NEG_SEP
+states|put|differences
+states|rattled in|talk
+he|joined|bank
+it|group of|paintings
+it|beat|candidates
+DOC_SEP
+panel|pelted from|commission
+station|owning in|market
+agency|known as|rule
+question|part of|trend
+district|circuit on|issues
+issues|ranging from|rates
+court|struck|rule
+agency|handed in|week
+network|prohibits by|rule
+impatience|flashed in|opinion
+congress|instructed justify|many
+compromise|struck during|drafting
+HOLDOUT_SEP
+regulations|vulnerable as|compromise
+NEG_SEP
+disdain|shouting in|village
+congress|passes|legislation
+he|caused by|seduction
+question|includes by|chapters
+trend|strengthen|iran
+DOC_SEP
+database|unveiled in|week
+database|starts with|proteins
+database|known as|atlas
+marconi|created|venture
+prototype|shown at|conference
+scientists|know|identities
+sequence|string of|letters
+genes|resulting in|estimates
+technique|look for|rna
+technique|used by|genomics
+cells|turn|instructions
+technique|overcount|genes
+HOLDOUT_SEP
+it|determining|sequence
+NEG_SEP
+rna|spokesman for|ministry
+week|say at|fields
+knapp|said to|we
+it|about|money
+it|reversals of|fortune
+DOC_SEP
+police|found|hole
+police|investigating|possibility
+terrorists|planning plant|bomb
+hole|made for|reason
+nationals|found with|pounds
+police|arrested|point
+suspects|working with|information
+compound|found in|apartment
+it|turned into|gas
+scientists|said since|arrests
+substance|toxic in|itself
+bomb|set in|passageway
+cloud|formed under|center
+HOLDOUT_SEP
+cloud|spread through|tunnels
+NEG_SEP
+it|spoke as|arab
+suspects|live in|flat
+someone|director in|boston
+center|dropped|himself
+we|make|playoffs
+DOC_SEP
+it|difficult with|knicks
+players|gathered round|coach
+he|said since|boos
+players|absorb|everything
+knicks|wound falling at|home
+HOLDOUT_SEP
+lead|cut to|13
+NEG_SEP
+it|chose over|salmon
+they|paid|taxes
+everything|submitted|affidavit
+elections|call in|13
+rerun|accused|bush
+DOC_SEP
+sides|take for|governor
+bush|help|himself
+riordan|recalled in|interview
+riordan|tumbled from|perch
+he|struggling put|challenge
+shift|came in|gov.
+davis|viewed as|threat
+davis|injected in|primary
+riordan|stands on|issues
+flake|flip-flopped on|abortion
+candidate|began pounding with|own
+davis|bloodying|riordan
+HOLDOUT_SEP
+he|plunged into|campaign
+NEG_SEP
+threat|image of|suitcase
+jones|sister of|bernice
+issues|used on|job
+swanson|said to|davis
+he|running for|governor
+DOC_SEP
+cd|recording by|pride
+cd|released in|states
+makers|agreed warn|consumers
+entertainment|violated|laws
+cd|released with|technology
+them|trading on|computers
+music|prevents by|technology
+downloads|work on|computers
+HOLDOUT_SEP
+consumers|enter as|condition
+NEG_SEP
+entertainment|lowered|estimate
+westwood|shock|them
+them|oppose|bill
+consumers|hear from|auditor
+one|prevail against|riders
+DOC_SEP
+fire|broke in|kitchen
+fire|spread in|apartment
+woman|died|morning
+woman|fell on|stove
+woman|found inside|apartment
+woman|identified as|brown
+alarm|brought|number
+HOLDOUT_SEP
+firefighters|responding to|100
+NEG_SEP
+they|thought|way
+they|dressed|trailers
+morning|security in|israel
+position|used in|washington
+they|said of|subjects
+DOC_SEP
+company|sued charging that|banks
+banks|disguised as|trades
+companies|accuse|company
+filings|tied to|hearing
+morgan|sued|total
+enron|filed for|bankruptcy
+claims|relating to|dealings
+chase|camouflaged as|transaction
+levine|says in|filing
+transaction|describing as|trade
+HOLDOUT_SEP
+fraud|perpetuate on|companies
+NEG_SEP
+trade|hostage to|nation
+today|stacked on|top
+nothing|heartened by|messages
+claims|offered|estimates
+nothing|taught through|studies
+DOC_SEP
+they|prepare mark|anniversary
+bombing|families of|victims
+father|killed in|attack
+father|supervisor at|authority
+charities|raised|money
+they|eligible for|aid
+they|consulted about|plans
+conference|held outside|hall
+people|killed in|attack
+memorial|obliterated on|sept.
+anniversary|observe in|part
+HOLDOUT_SEP
+we|pay|tribute
+NEG_SEP
+part|took in|years
+hall|converted to|co-op
+part|loss for|russia
+authority|finds|itself
+place|took in|first
+DOC_SEP
+friends|bring|qualities
+she|developed|partnership
+they|brought in|performance
+mcdermott|sensitive to|qualities
+mcdermott|matched in|temperament
+mcdermott|went in|place
+mcdermott|went project|turmoil
+sonata|turns|stormy
+kim|cellist of|eric
+kim|violinist of|benny
+wilson|violist of|evan
+kim|driving in|a.
+idea|capture|aspects
+HOLDOUT_SEP
+audience|erupted at|end
+NEG_SEP
+program|promises on|site
+she|turned to|commissioners
+devine|priest with|audience
+she|sleeps after|bombing
+they|looking at|market
+DOC_SEP
+alabama|fighting with|prejudice
+they|want|jobs
+issue|taken|urgency
+convention|pro-reform for|example
+democrat|running for|re-election
+son|accuses|reformers
+changes'bring|taxes
+industrialists|saw to|it
+HOLDOUT_SEP
+association|plans sue|state
+NEG_SEP
+they|taken in|fact
+democrat|kidnapped in|month
+they|flocked watching|players
+position|reduced|they
+number|make|it
+DOC_SEP
+bush|took to|asia
+bush|stand before|lunch
+handshake|photographed on|bridge
+house|center of|ministry
+bush|travels with|limousine
+bush|moved from|limousine
+bush|misspoke during|conference
+HOLDOUT_SEP
+he|talked about|loans
+NEG_SEP
+conference|began using|planning
+sponsors|pushing for|example
+he|leads with|48
+control|gained from|puzzle
+aides|triathlete from|croix
+DOC_SEP
+move|latest in|trend
+reruns|placing on|channel
+walters|player in|deal
+percent|owns by|news
+she|supportive of|deal
+hosts|starting on|april
+walters|features by|view
+show|run at|11
+view|replace|reruns
+move|addresses|concerns
+charmed|runs after|wb
+HOLDOUT_SEP
+cbs|announced in|week
+NEG_SEP
+last|data on|number
+number|found in|study
+week|fell on|times
+professionals|live in|number
+move|hit with|minutes
+DOC_SEP
+party|suffered|string
+results|announced in|today
+coalition|leads by|party
+pradesh|state of|india
+pradesh|springboard for|nationalists
+party|fell from|position
+minister|resigned|afternoon
+clear|extent of|loss
+extent|became|clear
+singh|minister of|state
+governs|nation of|people
+defeats|threaten|leadership
+HOLDOUT_SEP
+they|damage|credibility
+NEG_SEP
+center|boasts|diversity
+stock|fallen|share
+they|observed outside|station
+minister|priest of|roman
+it|ventures with|brothers
+DOC_SEP
+glover|drop-stepped around|boozer
+glover|drop-stepped bounce|shot
+emanuel|launched|rainbows
+possessions|ended with|turnovers
+devils|held|lead
+devils|gone by|time
+buzzer|ended in|half
+storm|return for|half
+HOLDOUT_SEP
+devils|defeat for|first
+NEG_SEP
+other|worked for|years
+it|anguish among|devout
+treatment|prepare|other
+conflicts|called on|stanley
+me|thank|jarvis
+DOC_SEP
+corporation|plans announce on|monday
+chips|based on|line
+it|shipped|chips
+intel|began selling in|computers
+intel|working for|servers
+intel|run|servers
+intel|show|chips
+vendors|begin selling|servers
+HOLDOUT_SEP
+intel|introduced|technologies
+NEG_SEP
+line|stars of|sports
+group|coalesced around|latest
+monday|opened|fire
+guys|keep|vendors
+it|express to|john
+DOC_SEP
+bank|city of|ramallah
+arafat|restricted to|city
+palestinians|reacted canceling|talks
+arafat|moving around|ramallah
+worsens|kidnapped in|week
+colombians|fear|intensification
+new|talks with|government
+future|required after|government
+thousands|took to|streets
+students|take|course
+past|recast in|light
+parliament|make|way
+parliament|way for|elections
+HOLDOUT_SEP
+coalition|suffered|losses
+NEG_SEP
+students|born to|1985
+thousands|made between|new
+new|provided to|times
+bank|rebounded on|announcement
+way|played as|rookie
+DOC_SEP
+she|passed|saturday
+she|resident for|years
+she|graduated from|college
+she|member of|church
+she|received|award
+HOLDOUT_SEP
+services|take|place
+NEG_SEP
+services|percent of|clients
+she|gestured toward|waist
+consultants|starting focus on|place
+chairman|declined comment on|winger
+years|requires|measures
+DOC_SEP
+memorials|lined outside|bungalow
+man|arrested in|friday
+boy|relative of|bethune
+neighbors|suggested in|yesterday
+juvenile|charged with|crime
+hearing|scheduled in|court
+he|intended charge as|adult
+teenager|went settle|dispute
+officers|found inside|house
+teenager|went to|complex
+lomax|refused sell|marijuana
+HOLDOUT_SEP
+teenager|shot|lomax
+NEG_SEP
+plans|reached unlike|industry
+officials|opposed to|raids
+house|see|bush
+dispute|prompted|calls
+officials|said since|week
+DOC_SEP
+he|born at|brigham
+valve|open in|heart
+hospital|perform|procedure
+jack|need|help
+he|breathing on|own
+team|widened|valve
+valve|stay|open
+defect|corrected in|fetus
+they|prevented|disorder
+valve|opening during|week
+HOLDOUT_SEP
+they|transplanted into|infant
+NEG_SEP
+dr.|led in|silence
+he|pay for|it
+he|picked in|team
+it|shown at|exhibition
+hospital|park of|camden
+DOC_SEP
+concert|ended with|performance
+players|remarkable in|piece
+players|full of|charm
+instances|came in|movements
+HOLDOUT_SEP
+extraordinary|performance for|clarinet
+NEG_SEP
+cello|cut in|top
+players|sit from|a.m.
+program|calls for|approach
+rule|takes from|instances
+instances|drive by|area
+DOC_SEP
+stanton|specialist of|yankees
+mendoza|injured at|time
+mendoza|came on|season
+stottlemyre|use|pitchers
+stottlemyre|sees as|interchangeable
+numbers|verify|belief
+stanton|named to|team
+we|overloaded in|half
+we|looked toward|playoffs
+stanton|wound in|games
+HOLDOUT_SEP
+he|completed|season
+NEG_SEP
+he|understood|target
+mendoza|said in|ms.
+numbers|finished in|yesterday
+interchangeable|urged focus on|leadership
+we|waiting upon|arrival
+DOC_SEP
+thompson|owned|studebaker
+thompson|fan of|car
+thompson|director of|first
+company|bought|building
+HOLDOUT_SEP
+subsidiary|converted|structure
+NEG_SEP
+thompson|passed after|bout
+she|take|jail
+first|shoots in|head
+thompson|said to|dr.
+mr.|find as|result
+DOC_SEP
+clouds|sent in|eruption
+ecosystem|choking off|grasses
+scientists|lost on|aug.
+comparable|severity of|eruption
+area|covered by|ash
+HOLDOUT_SEP
+drifts|pile|ash
+NEG_SEP
+it|going approach|end
+city|site of|ceremony
+lives|made celebrate|birthday
+romulo|said in|it
+it|encourage|break
+DOC_SEP
+they|found|connection
+scientists|writing in|nature
+people|suffering from|withdrawal
+knowles|conducted over|period
+accidents|occurring on|day
+accidents|related to|withdrawal
+accidents|occurring on|day
+knowles|compared on|wednesday
+years|occurring on|wednesday
+HOLDOUT_SEP
+knowles|concluded|relation
+NEG_SEP
+they|lost as|result
+they|open to|idea
+she|prefers wear|knowles
+it|create without|it
+day|place in|business
+DOC_SEP
+police|described as|suicide
+suicide|related to|dismissal
+workers|stunned by|death
+they|losing|jobs
+she|worked collecting|payments
+HOLDOUT_SEP
+she|shocked by|layoff
+NEG_SEP
+fifth|turned in|morning
+butterfly|presents|it
+monday|agreement in|principle
+woman|died|fire
+they|meet|vikings
+DOC_SEP
+gragg|starters on|line
+gragg|agents of|scott
+gragg|targeted by|teams
+HOLDOUT_SEP
+giants|started negotiating|contract
+NEG_SEP
+he|includes|fires
+official|conceded after|start
+he|started with|laureates
+themselves|before|storm
+threat|plays|songs
+DOC_SEP
+state|dropped|charge
+galante|charge against|owner
+official|attacking at|game
+investigation|provided|evidence
+we|prove|case
+HOLDOUT_SEP
+harper|failed show for|assignment
+NEG_SEP
+we|driving to|satisfaction
+state|defeated in|war
+sherman|lawyer of|j.
+we|play|soccer
+we|felt before|game
+DOC_SEP
+univision|expected submit|offer
+univision|waive|deadline
+univision|put for|sale
+companies|considered making|offers
+companies|considered as|deadline
+saban|investor of|haim
+group|preparing|bid
+group|people close to|auction
+HOLDOUT_SEP
+group|planned submit|offer
+NEG_SEP
+kaplan|said to|partner
+dispute|respect for|neighbor
+people|carry|vessels
+people|raised|speck
+partner|carried in|minutes
+DOC_SEP
+committee|vote on|legislation
+yorkers|change|habits
+landfills|dispose of|much
+owners|educate|tenants
+owners|remove|trash
+HOLDOUT_SEP
+tenants|subject to|fines
+NEG_SEP
+years|took|lead
+weingarten|agreed of|committee
+site|fly into|airport
+he|remember|it
+approach|ranges from|9.5
+DOC_SEP
+he|resident of|nyc
+scheider|born in|nyc
+mba|received from|school
+he|member of|lodge
+he|served on|board
+scheider|predeceased by|wife
+he|survived by|niece
+HOLDOUT_SEP
+services|held at|home
+NEG_SEP
+chicago|lift over|longview
+home|contracting with|companies
+regimen|includes doing|nyc
+home|voted against|it
+he|in|question
+DOC_SEP
+magazine|quoted|dixon
+magazine|quoted as|forecasting
+she|said of|he
+biography|reported in|1973
+they|refused to|print
+she|known as|seeress
+HOLDOUT_SEP
+dixon|writer of|column
+NEG_SEP
+they|impractical in|system
+he|ordered|hackers
+teams|involved in|they
+president|negotiating in|chicago
+column|tried explain to|me
+DOC_SEP
+season|begins in|fans
+fees|paid by|networks
+time|selling at|rates
+networks|held to|levels
+they|going pay for|season
+agencies|handling for|marketers
+advertisers|pay for|it
+football|mainstay for|marketers
+football|remains|mainstay
+HOLDOUT_SEP
+football|programs on|television
+NEG_SEP
+play|tuned to|season
+bbdo|made in|concentration
+surprises|give at|work
+time|mccorkle at|street
+time|president of|association
+DOC_SEP
+baker|waited for|telephone
+they|talking about|blockbuster
+baker|twisted on|day
+houston|backing|ewing
+HOLDOUT_SEP
+knicks|better without|center
+NEG_SEP
+ewing|born in|1938
+they|tolerate|forces
+road|travel|thoroughfares
+team|about|bulls
+teams|involved in|they
+DOC_SEP
+i|planned make|pasta
+i|decided add to|sauce
+i|cooked|beans
+i|cook|pasta
+i|drained|pasta
+HOLDOUT_SEP
+it|absorb|flavors
+NEG_SEP
+dish|putting|face
+family|exploited for|they
+it|run at|university
+me|wisdom for|others
+it|attack|you
+DOC_SEP
+trojans|annihilated|defense
+white|ran for|yards
+leinart|threw|passes
+sooners|yielded|yards
+HOLDOUT_SEP
+bush|carried for|yards
+NEG_SEP
+they|liked for|example
+they|taking for|cruises
+women|sold in|dynasty
+russo|lawyer with|u.s.c.
+year|created for|example
+DOC_SEP
+rosenbaum|attacked at|street
+rosenbaum|scholar from|australia
+rosenbaum|stabbed in|times
+he|consoles at|hospital
+he|bleeds from|wound
+jews|continues with|arrests
+HOLDOUT_SEP
+suspect|charged with|murder
+NEG_SEP
+officials|target of|one
+he|trailblazer for|politicians
+rosenbaum|said in|ms.
+something|got at|times
+rosenbaum|men in|house
+DOC_SEP
+concerts|planned by|philharmonic
+concerts|at|hall
+concerts|begin on|wednesday
+HOLDOUT_SEP
+philharmonic|conducted by|masur
+NEG_SEP
+hall|said in|steve
+office|earns in|purchase
+dutoit|said to|general
+wednesday|hired|people
+wednesday|seeks remove|sisters
+DOC_SEP
+nomination|collapsed in|problems
+nomination|embarrassed|president
+embarrassment|put|strain
+it|because of|confidence
+HOLDOUT_SEP
+nomination|withdrew on|friday
+NEG_SEP
+friday|sort|problems
+authorities|investigating|nomination
+situation|happens to|information
+embarrassment|shifts to|man
+it|stir|nomination
+DOC_SEP
+moss|died on|friday
+moss|chairman of|exchange
+moss|joined as|president
+moss|native of|bronx
+moss|president of|exchange
+HOLDOUT_SEP
+he|survived by|wife
+NEG_SEP
+he|go with|them
+he|paid get|football
+he|responding helping|democrats
+cards|sees by|he
+he|benefit from|president
+DOC_SEP
+stocks|advanced on|volume
+it|points in|trading
+advances|outnumbered by|819
+volume|rose from|million
+stocks|led|way
+market|building to|top
+dow|closes above|2,700
+HOLDOUT_SEP
+record|set on|august
+NEG_SEP
+advisers|running|rangers
+way|format including|summaries
+issues|take|place
+film|inspired by|819
+measures|need at|start
+DOC_SEP
+show|installed at|pier
+it|remains through|sunday
+wares|shown by|dealers
+dealers|participating in|international
+art|dominate at|international
+feld|owner of|galleries
+HOLDOUT_SEP
+vases|designed by|fragonard
+NEG_SEP
+armory|said of|army
+show|published in|1955
+figure|dropped|points
+dealers|examine|plans
+it|ran|second
+DOC_SEP
+dollar|rose against|currencies
+dollar|rose despite|slide
+gold|fell in|york
+bank|quoted from|late
+dollar|benefited from|sales
+HOLDOUT_SEP
+belief|fortified|dollar
+NEG_SEP
+policy|credited at|time
+we|accept|selloff
+aids|causes by|it
+dollar|described over|spot
+government|retain|they
+DOC_SEP
+stocks|dropped bringing to|year
+dow|affected by|flurry
+stocks|poured at|close
+dow|closed for|week
+dow|set during|course
+yield|unchanged at|percent
+unchanged|yield on|bond
+advances|exceeded by|margin
+sluggish|volume on|board
+shares|changing|hands
+HOLDOUT_SEP
+disney|tumbled among|losers
+NEG_SEP
+microsoft|based in|ritter
+day|guilty as|right
+course|comes down|road
+day|roll with|microsoft
+losers|binding on|courts
+DOC_SEP
+users|work with|documents
+it|has known|bugs
+bug|cause|typefaces
+users|come rely on|it
+user|railed at|microsoft
+HOLDOUT_SEP
+work|send into|oblivion
+NEG_SEP
+message|used attack on|tuesday
+it|filled with|models
+work|said of|board
+it|distant from|sculptures
+box|covered in|silk
+DOC_SEP
+parisians|arrested on|charges
+man|arrested in|subway
+he|collector of|knives
+he|carried as|weapon
+HOLDOUT_SEP
+knife|qualify as|illegal
+NEG_SEP
+nowhere|moved from|county
+process|scheduled for|dec.
+you|name on|list
+mansour|spokesman of|party
+knife|weighted in|favor
+DOC_SEP
+professor|take|retirement
+professor|take because of|controversy
+advances|making to|student
+students|threatened boycott|classes
+professor|suspended after|student
+client|charged with|crime
+one|want go into|kind
+HOLDOUT_SEP
+chairman|announced after|controversy
+NEG_SEP
+paugh|with|class
+he|received from|professor
+conner|said in|professor
+class|peeking through|clouds
+literature|sought from|project
+DOC_SEP
+man|threatened with|knife
+driver|stabbed|passenger
+passenger|took during|dispute
+driver|grabbed|knife
+driver|stabbed|canas
+canas|taken to|center
+HOLDOUT_SEP
+singh|charged with|assault
+NEG_SEP
+strike|put|pressure
+man|cut make|edge
+they|injected|them
+driver|referred as|may
+canas|superstar for|theater
+DOC_SEP
+robinson|scored in|bout
+point|deducted for|blow
+he|hit with|shots
+he|throw|punches
+robinson|let pepper|face
+robinson|stamped in|frustration
+HOLDOUT_SEP
+he|headed to|corner
+NEG_SEP
+it|open throughout|area
+they|attracted|following
+shares|issue to|it
+most|provide with|sites
+he|received|degrees
+DOC_SEP
+legislation|intended reduce|pollution
+city|begin purchasing|vehicles
+statute|signed in|thursday
+percent|use|fuels
+fuel|produced from|gas
+vehicles|powered by|gas
+departments|testing|vehicles
+companies|begin phasing in|vehicles
+HOLDOUT_SEP
+law|give|incentive
+NEG_SEP
+emergency|imposed during|june
+other|work including|city
+incentive|in|summer
+companies|working with|doctors
+june|played|minutes
+DOC_SEP
+testimony|came in|lawsuit
+lawsuit|brought against|rev.
+archdiocese|defended|actions
+courant|published from|documents
+predecessor|sent for|testing
+spokesman|noted in|statement
+him|remain as|priest
+zwilling|spokesman of|cardinal
+HOLDOUT_SEP
+egan|concluded with|accusations
+NEG_SEP
+time|began with|merger
+california|center of|1960
+curtis|owns in|cooperation
+statement|meeting as|regulations
+reports|make|pilgrimages
+DOC_SEP
+guards|took in|quarter
+kidd|driving to|victory
+performance|drowned by|kidd
+kidd|matched|other
+points|scoring in|quarter
+buzzer|sounded on|bulls
+he|shot|10
+boos|recall from|crowd
+3-pointer|left overcoming from|line
+williams|sank|shots
+HOLDOUT_SEP
+scott|credited|williams
+NEG_SEP
+farooqui|poets in|bulls
+scott|limited to|explanation
+victory|said to|mr.
+flowers|surround at|night
+10|scattered around|japan
+DOC_SEP
+company|reversed|itself
+patients|implanted with|device
+it|notify|patients
+decision|followed from|people
+decision|sharpen|debate
+HOLDOUT_SEP
+patients|given|information
+NEG_SEP
+1979|received from|university
+washington|said to|kyle
+claims|help with|cleaning
+wolfe|said from|florida
+amoco|delay|action
+DOC_SEP
+lewis|sprinter of|world
+lewis|gearing for|push
+lewis|winding|season
+legacy|begun assume as|role
+lewis|approaching at|age
+money|funneled to|athletes
+sport|professional with|money
+HOLDOUT_SEP
+he|won|medals
+NEG_SEP
+money|consider incorporating|house
+liquid|evaporated about|night
+lewis|take into|consideration
+athletes|borrowing|house
+zeal|sentenced to|three
+DOC_SEP
+developers|grappling about|vulnerability
+vulnerability|posed by|location
+men|discussed|concerns
+changes|protect|tower
+site|developed without|fear
+tower|built with|safety
+officials|frustrated over|handling
+HOLDOUT_SEP
+letter|expressed|concerns
+NEG_SEP
+he|scrap|system
+most|provided by|he
+it|begin|october
+response|preserve for|children
+it|concealing on|building
+DOC_SEP
+he|missed by|family
+he|born for|years
+he|son of|coles
+he|graduate of|school
+he|chairman of|lampoon
+he|served as|officer
+HOLDOUT_SEP
+contributions|made in|memory
+NEG_SEP
+beat|said in|dr.
+he|became|interested
+he|get to|jobs
+years|founder of|exchange
+body|council of|officer
+DOC_SEP
+data|compiled from|research
+nothing|illustrates|mismatch
+data|illuminate|breadth
+data|focusing on|groups
+mismatch|pronounced on|cable
+mismatch|seems|pronounced
+HOLDOUT_SEP
+figures|provided by|nielsen
+NEG_SEP
+may|sends|signal
+data|vie after|page
+ferrer|said to|minister
+they|stood|chance
+one|announced|appointment
+DOC_SEP
+department|released|data
+economy|showed|signs
+analysts|impressed in|particular
+figures|followed by|day
+costs|risen|increase
+demand|lead pushing|rates
+demand|lead raising|cost
+economy|on|rise
+HOLDOUT_SEP
+growth|exceed|rate
+NEG_SEP
+company|forced in|katrina
+norman|uses explore|memory
+bloch|demanding see|data
+goldstein|screened by|company
+offerings|include|data
+course|gained to|37
+DOC_SEP
+moore|leads|life
+she|teacher by|day
+discipline|drill at|school
+she|singer by|night
+singer|incites to|applause
+she|delivers in|voice
+set|open with|band
+HOLDOUT_SEP
+life|divided by|loves
+NEG_SEP
+she|daughter for|corporation
+she|choreograph in|years
+husband|said to|defense
+she|situated|meander
+someone|took|little
+DOC_SEP
+victims|employees of|companies
+witte|shot at|range
+foy|died at|hahnemann
+shootings|occurred on|parkway
+men|walking back to|offices
+gunman|got into|car
+HOLDOUT_SEP
+they|treated for|wounds
+NEG_SEP
+one|yanked into|street
+dessert|killed|one
+companies|diminishes despite|optimism
+fisher|received|words
+offices|used by|constabulary
+DOC_SEP
+proposals|put by|aide
+aide|spokesman for|arafat
+aide|offered|proposals
+statement|distributed at|meeting
+arab|meeting in|algiers
+officials|describe|proposals
+officials|describe as|effort
+shamir|dismissed as|new
+statement|received|response
+spokeswoman|praised for|tone
+solution|make to|process
+sharif|indicated in|statements
+document|written with|knowledge
+HOLDOUT_SEP
+problems|solved in|negotiations
+NEG_SEP
+confidence|gathering on|months
+they|strewn over|ground
+tone|faked on|play
+tone|receiver of|wayne
+arafat|pledged revive|boussac
+DOC_SEP
+international|company in|dallas
+it|acquired|associates
+international|said in|yesterday
+belden|operate as|subsidiary
+belden|works for|clients
+holbein|consultant at|belden
+termini|president at|belden
+HOLDOUT_SEP
+holbein|become|chairman
+NEG_SEP
+it|discover|defender
+role|turned into|back-office
+dallas|reign of|xvi
+international|measured by|birth
+it|changed to|creator
+DOC_SEP
+coalition|appeared after|months
+coalition|appeared lose in|elections
+argentines|went to|polls
+proportion|spoiled|ballots
+majority|expressed|pessimism
+senate|won overwhelming|candidates
+pollsters|took as|indication
+coalition|lose|seats
+they|aides to|president
+HOLDOUT_SEP
+he|intend remove|minister
+NEG_SEP
+government|descended on|area
+downie|said of|changes
+array|slide during|recording
+minister|drove in|day
+he|hear|sirens
+DOC_SEP
+president|fared in|vote
+vote|viewed as|referendum
+kuchma|president of|nation
+charge|year by|vote-rigging
+tally|show in|process
+charge|corrupted in|past
+voter|surveys at|places
+places|taken by|ukrainian
+ukraine|led by|minister
+polls|identify as|politician
+percent|commanded for|ukraine
+HOLDOUT_SEP
+outcome|affected by|fraud
+NEG_SEP
+program|given|they
+president|displays|ease
+time|free of|victimhood
+he|president of|academy
+he|noted in|heyday
+DOC_SEP
+march|expect achieve|goal
+thousands|attend staging|rally
+organizers|march on|saturday
+march|organized by|committee
+organizers|relied on|word-of-mouth
+HOLDOUT_SEP
+events|staged in|washington
+NEG_SEP
+everything|with|kids
+leaders|seek by|issue
+tocqueville|came study|it
+certaine|curated|run
+state|certified|example
+DOC_SEP
+he|appeared with|wife
+he|appeared promote|book
+aim|said in|month
+dish|for|instance
+pounds|packs by|stomach
+belly|ordered from|butcher
+kohl|added to|recipe
+belly|cut into|slices
+kohl|serves|dish
+HOLDOUT_SEP
+chancellor|leaves|leftovers
+NEG_SEP
+slices|face|shots
+food|ease|way
+instance|as|visible
+he|eliminate from|paintings
+instance|get out|door
+DOC_SEP
+leader|gotten to|education
+newman|president of|commission
+newman|quoted|pages
+opposition|encounter from|educators
+restructuring|advanced in|education
+decisions|made by|officials
+evaluation|dismissed because of|performance
+educators|appreciate|opportunities
+HOLDOUT_SEP
+funds|use for|enhancement
+NEG_SEP
+states|won with|ace
+opportunities|meet with|pacing
+officials|embroiled in|battle
+newman|hired on|april
+educators|around|net
+DOC_SEP
+anger|followed by|silence
+despair|returned after|attack
+francisco|attended|trial
+she|attacked in|neighborhood
+women|raping in|neighborhood
+she|took|comfort
+husband|struggled for|years
+it|put on|marriage
+HOLDOUT_SEP
+account|includes|details
+NEG_SEP
+he|wrote of|others
+they|learned during|women
+attack|played like|event
+comfort|used without|jacket
+francisco|nudged|it
+DOC_SEP
+andrew|circumcised by|doctor
+foreskin|removed by|person
+father|filed|motion
+trial|scheduled for|sept.
+i|opposed to|circumcision
+they|use|anesthesia
+people|accept as|procedure
+HOLDOUT_SEP
+hollander|father of|boy
+NEG_SEP
+legend|created|part
+they|hire|gardener
+he|loves|politics
+andrew|soprano of|barone
+schramm|committed with|it
+DOC_SEP
+talks|got to|start
+talks|lasted|hours
+they|talk by|telephone
+settlement|reached in|week
+sides|details in|settlement
+players|change|teams
+settlement|end|litigation
+HOLDOUT_SEP
+settlement|provide|plan
+NEG_SEP
+week|huddled in|bubble
+morning|said to|mayor
+settlement|referred|patients
+they|writes of|it
+trip|complete in|york
+DOC_SEP
+company|transformed|itself
+pattern|continued in|yesterday
+3d|become|chairman
+succession|in|contrast
+morgan|rival of|goldman
+corzine|co-head of|business
+goldman|resignation of|friedman
+corzine|appointments of|co-head
+warner|heir since|1990
+weatherstone|chairman at|time
+weatherstone|became|chairman
+he|named|president
+HOLDOUT_SEP
+promotion|seen as|signal
+NEG_SEP
+it|fired by|one
+end|chart to|power
+it|loved during|era
+weatherstone|models for|christy
+end|came from|emirate
+DOC_SEP
+jr.|moved ending as|one
+he|tormented|party
+he|tormented as|senator
+result|clash in|race
+perot|nominee in|1992
+perot|coy about|plans
+HOLDOUT_SEP
+support|dropped from|percent
+NEG_SEP
+he|deserved|it
+nixon|tried in|one
+ventura|hit|run
+perot|victimizing beyond|control
+it|threw for|strikes
+DOC_SEP
+america|began giving around|clock
+america|offers with|viewers
+cbs|provides|service
+networks|based in|mexico
+networks|based against|rivals
+introduction|transformed|america
+operation|makes|sense
+countries|created|opportunities
+marketplace|matured to|point
+cnn|venture in|language
+HOLDOUT_SEP
+espanol|went on|air
+NEG_SEP
+newsstands|fixture on|sense
+mexico|pay in|exchange
+mid-march|gorged as|balls
+states|spent by|arrangement
+name|hit by|west
+DOC_SEP
+microsoft|wield|power
+microsoft|guilty of|violations
+committee|led by|bresnahan
+committee|preparing|recommendations
+microsoft|restructure in|way
+HOLDOUT_SEP
+remedy|break|monopoly
+NEG_SEP
+way|cheered prompting|criticism
+mircosoft|kind at|part
+interview|daughter of|o'donnell
+committee|contend with|university
+hovenkamp|graduate of|league
+DOC_SEP
+ojeda|left-hander of|mets
+ojeda|suffered|injury
+washington|home in|l.i.
+upper|part of|finger
+team|repaired|finger
+team|voiced|optimism
+career|at|stake
+HOLDOUT_SEP
+news|relaying from|hospital
+NEG_SEP
+they|take|lot
+part|establish|guidelines
+it|memory of|they
+correction|rose|percent
+they|let|team
+DOC_SEP
+i|return with|pocketful
+i|contribute|change
+it|help|needy
+it|sent to|unicef
+currency|put into|envelopes
+death|prevent by|dehydration
+HOLDOUT_SEP
+toddlers|protect for|year
+NEG_SEP
+them|haunted by|concern
+he|person of|fact
+currency|bought on|fears
+year|cite for|tolerance
+them|turned in|streets
+DOC_SEP
+turner|hit|shot
+seconds|play give|victory
+cavaliers|recorded|victory
+stith|scored|points
+virginia|sent at|67-67
+virginia|led by|points
+brown|made|shot
+pair|play by|crotty
+he|connected from|range
+play|put|virginia
+pair|throws by|stith
+play|pair of|free
+75-71|left in|overtime
+scott|hit in|seconds
+HOLDOUT_SEP
+last|remaining make|score
+NEG_SEP
+it|staged at|festival
+work|stage in|it
+error|sixth for|score
+it|spending on|campaigns
+turner|idolizes by|doorman
+DOC_SEP
+cargo|for|palestinians
+ship|seized by|israel
+he|taken|orders
+it|carried|tons
+washington|intended draw|line
+he|called|ambassador
+tensions|spill into|war
+musharraf|concerned in|week
+india|called on|musharraf
+pledge|crack on|terrorism
+india|remained|serious
+india|blames for|attack
+HOLDOUT_SEP
+groups|based in|pakistan
+NEG_SEP
+groups|avenue on|thursdays
+blair|formed|partners
+it|killing with|song
+blair|actress for|margaret
+india|earned with|offense
+DOC_SEP
+texaco|announced|settlement
+boycott|hurt|people
+texaco|focus of|attention
+times|disclosed|existence
+texaco|became|focus
+texaco|reached on|friday
+settlement|exceeding with|employees
+HOLDOUT_SEP
+picketing|ended after|protests
+NEG_SEP
+man|string of|colonies
+man|received from|university
+friday|choice of|lunches
+existence|choice of|texaco
+he|identify|sources
+DOC_SEP
+park|won drawing|visitors
+park|won drawing since|opening
+turnout|outpaces|target
+attractions|palatable to|tastes
+acceptance|found in|japan
+changes|evident in|language
+HOLDOUT_SEP
+language|used at|attractions
+NEG_SEP
+dallas|named at|park
+he|cross|park
+language|lost among|changes
+tens|given|help
+changes|met in|county
+DOC_SEP
+i|cried in|front
+i|felt|rise
+i|shook|hands
+i|went to|stairwell
+nothing|shiver of|sadness
+strategy|miscast as|proof
+families|disregard of|patients
+center|responsible for|job
+family|distracted from|truth
+everyone|confronted with|choice
+wish|die among|surroundings
+HOLDOUT_SEP
+x-rays|announcements over|loudspeaker
+NEG_SEP
+they|moved in|end
+progressing|see over|end
+rise|decided resume|operations
+x-rays|director for|archdiocese
+today|quoting from|you
+DOC_SEP
+nelson|come under|settlement
+settlement|approved by|ann
+nelson|owed for|1972
+agency|charged in|may
+he|owed for|1979
+singer|disputed in|lawsuits
+cohen|approved|settlement
+documents|made in|thursday
+HOLDOUT_SEP
+nelson|discuss|settlement
+NEG_SEP
+nelson|put to|times
+officials|withdrew in|thursday
+he|witness against|me
+service|meant|military
+he|began in|attempt
+DOC_SEP
+it|agreed sell|hotel
+ltd.|announced in|today
+bond|purchased in|1988
+corporation|borrowed from|fai
+trump|developer of|new
+moritz|security for|loan
+corporation|forced into|sale
+trump|sold in|october
+HOLDOUT_SEP
+he|purchased from|group
+NEG_SEP
+today|seems|loss
+year|split in|september
+group|attacked killing|iraqi
+it|rewarding for|franchise
+adler|producers of|show
+DOC_SEP
+trautmann|died at|home
+trautmann|editor for|years
+trautmann|suffered|attack
+trautmann|began as|reporter
+trautmann|worked upon|return
+HOLDOUT_SEP
+trautmann|worked as|writer
+NEG_SEP
+trautmann|took in|series
+trautmann|artists like|bonnard
+trautmann|assisted for|attack
+he|study get right back to|you
+trautmann|said to|andrew
+DOC_SEP
+results|strengthen|skeptics
+adamishin|expresses in|moscow
+adamishin|calls on|russia
+adamishin|calls step to|sidelines
+governments|rejected|case
+small|aid to|russia
+americans|reject|anything
+expansion|legitimizes by|anything
+side|gain from|agreements
+HOLDOUT_SEP
+relations|stay on|course
+NEG_SEP
+weeks|leading in|year
+we|tolerate|they
+markets|entered in|we
+we|cash|check
+we|see in|training
+DOC_SEP
+smokers|kick|habit
+companies|racing introduce|patch
+trickle|delivering through|skin
+analysts|estimate|market
+corporation|pioneer in|patches
+it|holds through|skin
+HOLDOUT_SEP
+patch|approved on|nov.
+NEG_SEP
+company|fell|decrease
+skin|provide at|shelby
+it|processes within|computer
+market|new than|old
+role|wrote|story
+DOC_SEP
+club|give|chance
+audience|sits|bleachers
+troupe|make|laugh
+show|consist of|skits
+script|written by|cast
+rhinos|shaped in|mold
+dancers|show for|example
+parents|snicker during|questions
+workshop|business after|performance
+business|workshop on|comedy
+admission|free with|admission
+show|starts at|p.m.
+HOLDOUT_SEP
+musical|show for|parents
+NEG_SEP
+hand|program with|title
+questions|abandon|efforts
+minister|ruled|time
+time|loved from|show
+business|take|steps
+DOC_SEP
+they|noticed on|street
+paramedics|taken|him
+condition|diagnosed as|dementia
+HOLDOUT_SEP
+he|lived at|shelter
+NEG_SEP
+condition|repair in|thumb
+he|moved in|years
+dancers|seem incorporate|knowledge
+he|embodied|potential
+i|feel|pressure
+DOC_SEP
+ward|continue survive as|executive
+resignation|raised in|question
+mankamyer|interfered with|investigation
+HOLDOUT_SEP
+he|avoided|punishment
+NEG_SEP
+mankamyer|wants|son
+he|rebuffed|proposition
+it|produced|hits
+power|entered in|netherlands
+committee|said to|management
+DOC_SEP
+plans|announced by|parents
+l.i.|cogan of|york
+july|plans for|cogan
+cogan|graduated from|school
+she|with|gallery
+father|owner of|club
+HOLDOUT_SEP
+bridegroom|resident at|institute
+NEG_SEP
+he|tried at|he
+he|found|bag
+john|played since|he
+plans|sympathetic to|objects
+cogan|announced in|1994
+DOC_SEP
+yang|arbiter for|years
+yang|champion of|freedom
+yang|died in|today
+zhou|hospitalized for|years
+officials|visited|hospital
+HOLDOUT_SEP
+condolences|offer to|family
+NEG_SEP
+agency|scoring from|exam
+yang|attending|meeting
+it|like|it
+today|role of|doctor
+researchers|related to|he
+DOC_SEP
+militant|indicted on|charges
+he|orchestrated|plot
+plot|led to|murder
+charges|carry|penalty
+suspect|indicted by|jury
+hostage-taking|resulting in|death
+HOLDOUT_SEP
+militants|captured by|troops
+NEG_SEP
+militants|said with|respect
+jury|appeared on|channel
+states|sought lay at|feet
+life|future of|man
+ashcroft|second with|davis
+DOC_SEP
+they|prayed in|memory
+ribbons|attached to|shirts
+women|dressed in|black
+women|stopped in|heart
+men|demonstrated along|stretch
+HOLDOUT_SEP
+marchers|held behind|barricades
+NEG_SEP
+cristina|president of|council
+him|acquired|cat
+similar|separated from|ceremonial
+cristina|guitarist for|quarrymen
+boulevard|said in|kentucky
+DOC_SEP
+media|dedicated to|imagery
+bleckner|among|cast
+it|included|smattering
+it|divided into|themes
+themes|reflecting in|art
+artists|use as|subjects
+art|aligned with|illustrations
+HOLDOUT_SEP
+artists|concerned with|issues
+NEG_SEP
+things|put|items
+artists|charged with|it
+media|use in|weeks
+they|tend appraise|media
+artists|moves|data
+DOC_SEP
+department|opened|investigation
+we|expressed|concerns
+first|need for|inquiry
+inquiry|led by|someone
+officials|leaked|role
+judge|ordered|reporter
+jury|investigating|disclosure
+public|naming of|agent
+HOLDOUT_SEP
+he|received|subpoena
+NEG_SEP
+we|succeed in|term
+joseph|worked with|composer
+she|lends to|songs
+first|unfolds around|youngest
+times|assembled into|field
+DOC_SEP
+corporation|said after|days
+board|rejected|offer
+board|hoped continue|auction
+swap|involves by|bid
+offer|recommended to|shareholders
+company|sold to|concern
+it|sell|assets
+proposal|exceeded that of|offer
+HOLDOUT_SEP
+company|disappointed with|decision
+NEG_SEP
+proposal|leader of|senate
+taylor|rewrote|script
+letter|said to|mr.
+taylor|started in|ms.
+decision|convicted as|harsh
+DOC_SEP
+works|opening at|forum
+mannequins|come to|life
+technique|good as|stories
+photographs|takes by|technique
+adventures|revision of|tale
+figure|looks like|cross
+svankmajer|animator of|jan
+makers|influenced by|svankmajer
+HOLDOUT_SEP
+films|haunting as|stories
+NEG_SEP
+he|came|he
+cohen|said in|tom
+them|protect from|attacks
+focus|suggest|upturn
+it|possible at|revenge
+DOC_SEP
+guide|called at|party
+gamin|wore|scarf
+chemotherapy|receiving after|removal
+she|jokes about|condition
+she|working on|cartoon
+HOLDOUT_SEP
+humor|helps|patients
+NEG_SEP
+party|opposed|regulation
+patients|joined in|way
+serious|meeting of|leaders
+o'donnell|announced|dedication
+they|sneer from|side
+DOC_SEP
+rocket|hurled on|journey
+nasa|launched|mission
+craft|in|health
+it|soared toward|rendezvous
+communications|confirmed|craft
+it|pass|moon
+HOLDOUT_SEP
+ship|sped at|miles
+NEG_SEP
+he|bounced on|timing
+them|want|groceries
+day|scored|points
+signs|in|miles
+dr.|kept in|yesterday
+buckingham|said to|representative
+DOC_SEP
+mbeki|president of|africa
+renaissance|seems within|reach
+presidents|forswore in|continent
+presidents|forswore seeking|re-election
+continent|known for|strife
+africa|condemn|intimidation
+intimidation|condoned by|president
+leaders|keep|silent
+HOLDOUT_SEP
+leaders|risking|reputation
+NEG_SEP
+things|wanted shed as|publication
+he|sees|role
+month|increased in|january
+officials|referred to|prosecutors
+places|extends by|view
+solis|paid for|leader
+DOC_SEP
+day|suspended at|dormitory
+day|star of|arkansas
+players|appeal|ruling
+sources|spoke on|condition
+they|given|anonymity
+suspensions|given to|day
+HOLDOUT_SEP
+she|assaulted on|feb.
+NEG_SEP
+players|give without|benefit
+feb.|went to|site
+they|make in|factory
+today|reduced since|year
+sources|rolled through|town
+she|term of|wilson
+DOC_SEP
+individuals|affected by|attacks
+service|said in|internal
+county|taxpayers in|va.
+penalties|waived on|taxes
+they|deposited by|nov.
+HOLDOUT_SEP
+taxpayers|covered by|policy
+NEG_SEP
+kaplan|needs like|addition
+service|fired including|incident
+they|cross|river
+it|heard at|request
+terry|said to|mr.
+they|combine with|presentation
+DOC_SEP
+he|stopped by|banners
+roberts|led for|practice
+roberts|led onto|court
+media|rushed over|week
+HOLDOUT_SEP
+roberts|take trip to|tournament
+NEG_SEP
+court|used during|battles
+i|think|it
+chuckle|success of|operation
+dresser|professor at|regional
+floor|on|view
+moments|punctuate|people
+DOC_SEP
+recession|come to|end
+it|sustained of|recovery
+bush|signed into|law
+economy|growing at|rate
+HOLDOUT_SEP
+officials|credited|bush
+NEG_SEP
+production|released in|year
+company|submitted in|month
+law|go into|effect
+they|altered|strategy
+they|spend|time
+we|taking|credit
+DOC_SEP
+canada|negotiated|agreement
+states|minister of|canada
+airlines|move|passengers
+carriers|based in|states
+cargo|transport to|countries
+HOLDOUT_SEP
+agreement|encourage|development
+NEG_SEP
+stoppard|read at|states
+it|weight at|pounds
+she|wrote about|right
+it|taking of|people
+it|joined|raids
+passengers|arrived in|building
+DOC_SEP
+he|retreated from|edge
+he|began writing|pieces
+he|drawing from|practices
+he|conducted for|time
+music|heard as|experiment
+HOLDOUT_SEP
+music|lacks|structure
+NEG_SEP
+place|north of|rouge
+it|meet by|accident
+it|create issuing|alerts
+work|created in|1996
+piniella|crossed|place
+practices|cost in|dollars
+DOC_SEP
+children|injured in|fire
+children|killed in|yesterday
+firefighter|pulled from|bedroom
+blaze|started by|heater
+HOLDOUT_SEP
+heater|emitting|sparks
+NEG_SEP
+it|favors by|foundation
+it|labored wean from|perception
+she|brought for|order
+he|achieved|she
+it|go back to|way
+she|chronicled|end
+DOC_SEP
+question|remained|unanswered
+republicans|found in|winter
+democrats|soft on|communism
+republicans|attacked|adviser
+berger|adviser of|president
+columnists|joined|chorus
+committee|issued|report
+HOLDOUT_SEP
+report|short on|evidence
+NEG_SEP
+officers|resist|it
+president|son of|quigley
+attack|city of|york
+it|encircled by|wall
+it|perform|check
+it|component across|avenue
+DOC_SEP
+dish|produced beginning with|starter
+bottom|covered with|medley
+waiter|ladled piping into|bowl
+HOLDOUT_SEP
+risotto|served with|sauteed
+NEG_SEP
+it|drawn from|fortune
+i|on|it
+pilots|seek|course
+it|districts on|population
+number|face|constraints
+we|preserve|views
+DOC_SEP
+bush|wound|visit
+worries|center on|japan
+influence|pressed in|japan
+bush|elevated making|japan
+official|involved in|talks
+HOLDOUT_SEP
+official|said about|fears
+NEG_SEP
+position|in|it
+officials|charged with|murder
+visit|from|everyone
+they|looking at|ground
+industry|lost|us
+officials|established in|months
+DOC_SEP
+residents|see as|traitors
+streets|patrolling with|soldiers
+americans|take|lead
+patrols|running since|beginning
+battalion|more than|symbolic
+HOLDOUT_SEP
+residents|used to|them
+NEG_SEP
+it|spawned|5
+residents|beginning|effect
+he|put on|song
+change|address|consequence
+it|because of|recession
+mayweather|said about|change
+DOC_SEP
+one|search for|cause
+officials|involved in|search
+findings|available for|discussions
+research|conducting under|spotlight
+public|knows|little
+ends|part of|research
+fauci|head of|institute
+researcher|institute of|allergy
+disease|shaken|scientists
+meeting|focused on|reports
+HOLDOUT_SEP
+discussion|went beyond|publications
+NEG_SEP
+you|remains as|critique
+one|shuffled into|space
+one|wrote falling into|trap
+public|notified by|e-mail
+public|implies on|wine
+it|built from|bank
+DOC_SEP
+web|alive with|sound
+labels|offer|samples
+they|reach|stores
+retailers|offer|catalogues
+many|offer|art
+HOLDOUT_SEP
+companies|sell|online
+NEG_SEP
+one|said in|ms.
+frank|bought from|one
+they|said in|commander
+palestine|said in|dr.
+many|members of|foundation
+consumers|able through|negotiations
+DOC_SEP
+he|born in|york
+he|counsel in|1974
+he|became|counsel
+he|returned to|york
+he|member since|1961
+he|served on|board
+he|survived by|judith
+HOLDOUT_SEP
+mass|held at|bernard
+NEG_SEP
+lot|balance|he
+we|note|industry
+people|take at|gathering
+mass|remained in|program
+we|judiciary of|opponents
+board|finish by|university
+DOC_SEP
+art|make from|africa
+pre-columbian|part of|exhibit
+art|jewel of|display
+official|director of|museum
+sites|endangered by|looters
+museum|refused produce|documents
+pieces|looted from|world
+HOLDOUT_SEP
+pieces|sells by|collector
+NEG_SEP
+collector|records|data
+collector|said to|ms.
+region|provided in|ordinance
+court|left during|laws
+two|unknown for|children
+it|offering of|shares
+DOC_SEP
+award|makes by|association
+krugman|expert on|economics
+krugman|re-written|book
+HOLDOUT_SEP
+book|field on|trade
+NEG_SEP
+corbin|sprayed with|style
+dukakis|fulfill|half
+dukakis|said to|george
+book|said in|mr.
+hatred|lay in|he
+advantages|success of|program
+DOC_SEP
+i|met|larry
+he|kick|habit
+he|kill|himself
+he|live without|cigarettes
+he|felt of|he
+HOLDOUT_SEP
+larry|failed in|years
+NEG_SEP
+it|played with|intensity
+lovers|happy for|chance
+it|illustrates by|kind
+smoking|decorate|checkpoints
+he|read like|art
+meeting|spent in|effort
+DOC_SEP
+commission|gave to|takeover
+companies|agreed to|requirements
+mobil|divest of|interest
+mobil|divest refine in|europe
+exxon|agreed merge in|december
+HOLDOUT_SEP
+companies|in|negotiations
+NEG_SEP
+competition|achieved in|year
+blumenthal|react to|pitching
+ryan|said in|interview
+they|raise|him
+talks|said to|police
+stations|take|interstate
+DOC_SEP
+marcus|son of|marcus
+she|completed|university
+she|graduated|laude
+father|dean of|studies
+mother|director of|school
+marcus|graduated from|university
+HOLDOUT_SEP
+marcus|received|j.d.
+NEG_SEP
+office|among|passengers
+she|under|way
+school|meet besides|meetings
+office|share with|public
+she|met|feliciano
+studies|drawn|attention
+DOC_SEP
+restaurants|established|themselves
+restaurants|established beyond|zone
+restaurant|step in|direction
+restaurant|have|menu
+HOLDOUT_SEP
+menu|offering|selections
+NEG_SEP
+seles|won with|stage
+terrorist|attacks in|they
+menu|third with|250
+spring|hard for|past
+mr.|president of|farm
+much|explained as|particles
+DOC_SEP
+he|ended without|agreements
+he|received|signs
+solidarity|show by|insurgency
+deadly|attack on|parliament
+we|want|war
+HOLDOUT_SEP
+war|imposed on|us
+NEG_SEP
+we|filled with|pain
+secretary|conduit between|president
+he|rallied|translators
+he|with|pieces
+october|dropped|flake
+we|in|sort
+DOC_SEP
+hevesi|accused|superintendent
+superintendent|fixture in|district
+hawkins|reached for|comment
+board|called in|response
+HOLDOUT_SEP
+suspicion|created at|district
+NEG_SEP
+he|glean|religion
+him|forgets|faces
+floyd|known for|work
+him|named in|film
+end|greeted with|tables
+superintendent|diplomat of|vatican
+DOC_SEP
+advocates|begin running|advertisement
+ad|sponsored by|abortion
+league|organization in|washington
+campaign|is painting|forrester
+HOLDOUT_SEP
+ad|begins on|stations
+NEG_SEP
+treaty|renegotiate|he
+members|maintain|problems
+women|receive|vouchers
+court|take|path
+pascoe|said to|s.
+he|adds to|material
+DOC_SEP
+he|came into|world
+andrew|circumcised by|doctor
+person|known as|days
+father|filed|motion
+HOLDOUT_SEP
+trial|scheduled for|sept.
+NEG_SEP
+i|go to|auctions
+it|convert|complex
+he|needs for|instance
+it|deal for|teams
+it|imposed on|rest
+voice|in|reason
+DOC_SEP
+shanahan|coach in|league
+shanahan|working before|game
+shanahan|spent|season
+shanahan|spent as|coach
+HOLDOUT_SEP
+shanahan|gave|order
+NEG_SEP
+you|going play|role
+other|banned from|room
+city|sold in|period
+city|announced in|yesterday
+order|spent on|development
+shanahan|on|view
+DOC_SEP
+men|wear|tuxedo
+they|report to|auditorium
+they|bused in|location
+they|submit|photograph
+seats|vacated by|stars
+HOLDOUT_SEP
+stars|making to|restroom
+NEG_SEP
+district|seat to|it
+theater|worked from|1997
+services|roster of|state
+it|take before|end
+wolfe|in|1997
+it|playing as|undertaking
+DOC_SEP
+brands|warned of|sales
+shares|fell on|week
+rival|declined|percent
+gateway|fell for|week
+it|cut|forecasts
+shares|fell though|price
+HOLDOUT_SEP
+it|eliminate|jobs
+NEG_SEP
+seems|used|delphi
+price|begins with|olives
+it|graduated|cum
+it|took at|inn
+week|put on|block
+it|call|mother
+DOC_SEP
+he|played|game
+phillies|beat|giants
+thompson|homered for|francisco
+HOLDOUT_SEP
+gant|hit|homer
+NEG_SEP
+fact|troubled by|reasons
+fact|obtained from|libya
+negative|influence with|fact
+berry|left on|thursday
+communications|jump without|conditions
+youngsters|killed in|conditions
+DOC_SEP
+suit|settle with|remainder
+remainder|paid by|insurer
+agreement|reduce|earnings
+shareholders|filed|suit
+setback|attributed to|losses
+HOLDOUT_SEP
+lawsuits|accused|management
+NEG_SEP
+it|winning on|goal
+picture|owns by|agent
+peabody|company in|it
+lawsuits|filed at|level
+it|determined|status
+agreement|include|israel
+DOC_SEP
+fight|moved as|judge
+rules|impose on|industry
+drivers|recreate|demonstration
+mayor|seemed open|door
+efforts|violation of|rights
+demonstration|limit on|thursday
+commission|scheduled|hearing
+HOLDOUT_SEP
+drivers|sought in|petition
+NEG_SEP
+officials|flooded|area
+request|signed in|co-op
+efforts|affected by|attacks
+he|trained for|weeks
+trams|propelled by|hundreds
+he|buy|sweet
+DOC_SEP
+simpson|led on|chase
+delay|came before|arraignment
+childs|spokeswoman for|garcetti
+prosecutors|seek|postponement
+investigators|found|passport
+HOLDOUT_SEP
+pursuit|occurred on|evening
+NEG_SEP
+van|took in|october
+lindgren|author for|van
+he|playing with|money
+they|supplied with|arms
+he|receive on|thursday
+j.|anthropologist for|james
+DOC_SEP
+winners|visits in|today
+winners|meet at|stadium
+coaches|talk about|power
+power|failed to|score
+HOLDOUT_SEP
+farmer|beaten|power
+NEG_SEP
+futility|soared in|year
+season|eagle with|culture
+he|stir|things
+one|hate|liberty
+everyone|look at|balls
+most|release from|hospitals
+DOC_SEP
+roth|approached with|proposition
+roth|intrigued touching|trend
+roth|became|statistician
+roth|died at|hospital
+HOLDOUT_SEP
+he|suffered|attack
+NEG_SEP
+nbc|endured in|season
+example|calls to|center
+it|act like|infants
+nbc|said to|dillard
+he|run|speculation
+it|upstaged in|game
+DOC_SEP
+bride|graduated from|university
+bride|daughter of|jr.
+father|president of|edison
+president|teacher at|society
+HOLDOUT_SEP
+bride|granddaughter of|taylor
+NEG_SEP
+they|strike|he
+vincent|said to|glover
+washington|led in|years
+glover|said in|mr.
+he|stood around|fall
+taylor|said to|cliff
+DOC_SEP
+bomb|planting outside|company
+advocate|faces|charges
+charges|stemming from|planting
+she|wanted scare|chairman
+HOLDOUT_SEP
+police|found in|case
+NEG_SEP
+she|in|races
+casinos|pay|charges
+company|attributed|reduction
+company|oppose|deadlines
+years|released as|protest
+fine|stuffed with|turkey
+DOC_SEP
+administration|made|judgment
+states|seek avoid|role
+states|seek reserving|efforts
+crucial|position of|alliance
+victories|given|control
+HOLDOUT_SEP
+they|eager for|alliance
+NEG_SEP
+it|opens in|they
+part|by|fitzgerald
+they|for|they
+colleagues|said in|mr.
+efforts|shared in|contrast
+computers|record to|colleagues
+DOC_SEP
+kirsten|married in|bedford
+kirsten|president of|international
+foley|performed at|church
+kirsten|graduated from|university
+kirsten|received from|university
+she|daughter of|riley
+father|president for|systems
+systems|company in|englewood
+HOLDOUT_SEP
+kirsten|graduated from|university
+NEG_SEP
+she|taking as|parents
+he|lot of|press
+father|parlayed into|fortunes
+ads|includes by|new
+one|presented by|she
+new|presented in|week
+DOC_SEP
+whitaker|expected with|hoya
+boxing|fight at|center
+hurtado|take for|fight
+he|learned|lesson
+HOLDOUT_SEP
+whitaker|started as|lightweight
+NEG_SEP
+he|grows by|lack
+he|fire|nanny
+hospitals|treat|i
+i|coming out of|neck
+i|wait adopt|unusual
+best|scratch|fun
+DOC_SEP
+cameras|turning on|spate
+stories|drawn|audiences
+stories|hit|theaters
+racism|filmed around|angeles
+movies|exploring|area
+HOLDOUT_SEP
+it|provoke|controversy
+NEG_SEP
+cinema|aims for|survival
+he|heard|one
+house|replace|he
+i|reflect on|approach
+democrats|control|washington
+approach|agreement by|time
+DOC_SEP
+academy|inducted into|academy
+it|named|members
+organization|bestowed|award
+HOLDOUT_SEP
+writer|inducted during|ceremony
+NEG_SEP
+louise|carved|bowls
+it|expect in|test
+graham|ordered increase|membership
+it|purchased from|regimes
+adversaries|seized upon|members
+it|learned in|life
+DOC_SEP
+trend|accelerate toward|blocs
+concerns|justified by|dispute
+dispute|resolved by|negotiations
+countries|work prevent|market
+countries|permits by|treaty
+HOLDOUT_SEP
+trade|limit from|nations
+NEG_SEP
+government|left stay with|relatives
+party|viewed as|phenomenon
+nathan|friend of|party
+he|taking|care
+cattle|fattened for|end
+germany|said in|ms.
+DOC_SEP
+magazine|renewing after|years
+penney|editor in|chief
+guthrie|president for|marketing
+people|going wait for|something
+HOLDOUT_SEP
+circulation|shown|growth
+NEG_SEP
+you|sitting on|saturday
+james|financed by|creek
+years|halted on|part
+it|paid|attention
+walter|hires|them
+service|said to|information
+DOC_SEP
+managers|becoming despite|delays
+experts|working on|projects
+beach|publisher of|magazine
+responses|included|percent
+HOLDOUT_SEP
+they|working on|problems
+NEG_SEP
+professionals|accuse|perot
+hundreds|tried storm|front
+investments|source of|percent
+shapiro|said to|publisher
+they|for|years
+projects|mourns|death
+DOC_SEP
+hundreds|gathered outside|embassy
+hundreds|downed|cameras
+hundreds|gathered protest|deaths
+correspondent|killed on|monday
+missile|hit near|baghdad
+hundreds|blocked at|noon
+hundreds|blocked outside|embassy
+HOLDOUT_SEP
+crowd|directed|cries
+NEG_SEP
+he|worked in|sales
+commanders|lock|building
+he|said to|erik
+deaths|adapted by|huston
+hundreds|need explore|areas
+officials|said in|today
+DOC_SEP
+cbs|endured|criticism
+buck|dismissed as|announcer
+shaker|praised|work
+shaker|denied|performance
+HOLDOUT_SEP
+buck|replaced by|mcdonough
+NEG_SEP
+rule|said to|willard
+sox|support against|mcdowell
+arrangement|pursuing at|one
+it|released|report
+one|received from|households
+performance|awakened|palate
+DOC_SEP
+victims|spared from|viruses
+proteins|made through|engineering
+many|infected with|aids
+specialist|says in|article
+article|published in|journal
+HOLDOUT_SEP
+specialist|tested at|hospital
+NEG_SEP
+companies|shore|presence
+one|rejected as|gang
+time|returns from|meetings
+bag|whipping on|one
+we|stopped for|moment
+we|argument against|euro
+DOC_SEP
+we|left in|stages
+they|go into|skillet
+i|asked|myself
+i|gave|quest
+i|stir-fried|bunch
+i|assembled|dressing
+cabbage|use for|matter
+HOLDOUT_SEP
+cilantro|leaves for|garnish
+NEG_SEP
+i|take to|disneyland
+entrepreneur|barturen-manolo of|they
+they|attempt sell on|it
+it|won|grand
+bok|students of|graham
+facilities|offer|they
+DOC_SEP
+bowe|champion of|boxing
+bowe|stripped of|one
+bowe|tossed into|trash
+he|defend|titles
+HOLDOUT_SEP
+smith|knocked for|title
+NEG_SEP
+location|hired|group
+one|die|death
+action|said to|jan.
+time|promenade from|mansion
+time|controlled in|winds
+he|tell|things
+DOC_SEP
+landscape|dominated by|houses
+shopping|happens at|mall
+shop|sells|pipes
+HOLDOUT_SEP
+stores|represents by|firm
+NEG_SEP
+she|becomes|anthropologist
+he|leaving because of|we
+less|impact on|economy
+her|surfaces|blocks
+life|accused in|week
+she|key to|deal
+DOC_SEP
+chairman|called for|changes
+he|proposed|measures
+he|critical in|speech
+he|name|companies
+HOLDOUT_SEP
+insiders|sold before|declines
+NEG_SEP
+stock|cup of|juice
+i|began invest in|people
+halliburton|led until|time
+changes|caused|eye
+sachs|investors for|morgan
+piazza|forced onto|most
+DOC_SEP
+governor|emerged from|meeting
+commission|given under|agreement
+wednesday|propose|solution
+service|downgraded as|result
+agreement|reached in|day
+HOLDOUT_SEP
+employees|return to|jobs
+NEG_SEP
+service|ended with|finish
+you|balance|court
+judgment|addition to|court
+clubs|choice although|it
+governor|professor at|university
+office|director of|office
+DOC_SEP
+firm|sparked for|years
+firm|made to|clients
+firm|finds on|seat
+it|faces|possibility
+negotiations|stepped in|weeks
+firm|put in|place
+firm|required in|compliance
+prosecutors|seeking|payment
+HOLDOUT_SEP
+conviction|overturned by|court
+NEG_SEP
+years|appears in|he
+they|attacked with|fire
+marlboro|based in|world
+weeks|open to|free
+place|sealed to|traffic
+years|declined in|year
+DOC_SEP
+methods|practice for|diseases
+test|predictor of|disease
+test|detects than|virus
+professor|director of|society
+approach|embraced to|diseases
+people|tested by|physicians
+HOLDOUT_SEP
+testing|retained as|alternative
+NEG_SEP
+sites|overflowing with|visitors
+center|scheduled for|completion
+checks|perform on|list
+states|questioned|him
+they|find in|corners
+they|place|amount
+DOC_SEP
+tickets|purchase for|time
+fans|responded with|chance
+knicks|make|playoffs
+HOLDOUT_SEP
+knicks|outplayed by|bullets
+NEG_SEP
+it|say without|emotion
+methodology|applied to|tuesday
+knicks|said in|bill
+one|shake|way
+belgium|opened|tuesday
+philadelphia|museum at|university
+DOC_SEP
+lead|wasted by|bullpen
+green|wanted recall after|triumph
+runners|dancing across|plate
+HOLDOUT_SEP
+yankees|turned into|advantage
+NEG_SEP
+they|big in|history
+performance|expected reach by|year
+we|take|game
+california|housing for|period
+harvey|rector of|university
+i|knew|we
+DOC_SEP
+plan|drew from|senator
+senator|head of|committee
+he|supported|idea
+aid|giving to|districts
+he|troubled by|cuts
+HOLDOUT_SEP
+state|reduce|aid
+NEG_SEP
+he|relocated|school
+officials|said limiting|he
+laugh|got from|we
+he|served in|europe
+sudan|shared|essential
+aid|provide for|spas
+DOC_SEP
+officials|breathed|sigh
+mikhailov|leaving|post
+government|announced in|month
+he|rejected|efforts
+he|recommended as|successor
+HOLDOUT_SEP
+he|resigned as|minister
+NEG_SEP
+man|informed|parents
+states|make|support
+it|strain on|system
+first|applied|itself
+none|met in|manhattan
+office|known as|school
+DOC_SEP
+viewers|puzzled by|works
+prints|printmakers of|japan
+it|helps know|background
+painter|exercised about|nature
+career|embodied|dilemma
+he|learned paint in|medium
+he|inspired by|reproduction
+HOLDOUT_SEP
+he|rejected|style
+NEG_SEP
+it|issue in|months
+he|present in|january
+convicts|transported in|marriage
+career|critics for|national
+it|taken from|hitters
+followers|urged in|yesterday
+DOC_SEP
+pataki|took from|playbook
+pataki|seemed in|speech
+pataki|seemed place in|line
+speech|received with|applause
+pataki|governor of|republican
+HOLDOUT_SEP
+pataki|called for|instance
+NEG_SEP
+savimbi|remove from|details
+greatness|born on|line
+she|diagnosed in|decade
+we|remember telling|jessica
+comcast|adding|instance
+future|make|cuts
+DOC_SEP
+faxon|shared in|round
+faxon|shot|69
+faxon|lead|golfers
+faxon|tie at|138
+balls|landed in|fairways
+HOLDOUT_SEP
+faxon|played|golf
+NEG_SEP
+event|dance|events
+fairways|sold in|states
+i|aware of|decision
+garcia|said to|1991
+contrast|drawing from|ballets
+contrast|needs|vote
+DOC_SEP
+suspects|wanted at|center
+investigators|began scouring|section
+they|knew|suspects
+pictures|printed in|newspapers
+pictures|shown on|television
+investigators|spoke on|condition
+three|robbed at|center
+three|robbed outside|bank
+HOLDOUT_SEP
+callers|provided|information
+NEG_SEP
+brooklyn|branch of|bank
+deal|join during|tour
+it|eating|pasta
+it|works in|progress
+they|takes by|workaholic
+mccabe|said in|three
+DOC_SEP
+marcos|ousted after|years
+supporter|put|sign
+aquino|opened for|return
+her|barring from|philippines
+prohibition|based on|belief
+she|faces|dozens
+HOLDOUT_SEP
+aquino|lifted|prohibition
+NEG_SEP
+she|chatted between|customers
+fight|centered on|country
+political|pounced pointing to|it
+imitators|encourage in|large
+february|began in|al
+DOC_SEP
+corporation|attention in|circles
+corporation|shifting to|deal
+HOLDOUT_SEP
+companies|held|discussions
+NEG_SEP
+it|terminus of|bombay
+successor|murray of|state
+it|leader for|le
+angeles|consider re-signing|players
+they|clog|streets
+quarter|rented of|space
+DOC_SEP
+student|during|protest
+guards|known as|officers
+trial|began on|dec.
+arguments|completed by|end
+he|made arresting|students
+allegations|made by|meyer
+HOLDOUT_SEP
+charges|lodged against|him
+NEG_SEP
+end|cut to|3-1
+mr.|criticize for|fear
+end|mention|condition
+israeli|attack on|year
+i|answer at|4
+she|take|end
+DOC_SEP
+dixon|daughter of|lisa
+dixon|announced|engagement
+dixon|graduated from|university
+she|director of|management
+group|company in|hartford
+father|retired as|director
+HOLDOUT_SEP
+he|graduated from|university
+NEG_SEP
+group|told in|sofia
+steel|ordered comply with|article
+university|among|institutions
+steel|installing with|insulation
+he|wounds from|slowdown
+it|reorganizing improve|management
+DOC_SEP
+judge|ruled that|ban
+judge|ruled in|ruling
+law|violates|association
+members|need|anonymity
+anonymity|provided by|mask
+rights|exercise without|fear
+HOLDOUT_SEP
+law|impeded|ability
+NEG_SEP
+he|survived by|husband
+office|declared in|years
+he|repeat|word
+county|empower to|experiment
+court|''undermine|conditions
+DOC_SEP
+republican|director for|department
+he|sought deal with|cases
+he|dismissed at|instigation
+HOLDOUT_SEP
+he|dismissed from|administration
+NEG_SEP
+he|treated like|son
+he|use|vote
+downturn|reluctance of|he
+country|deal with|retirement
+parents|writing|philosophy
+law|death in|areas
+DOC_SEP
+restaurants|announced|heritage
+gutsy|food of|naples
+restaurants|opened in|month
+pizza|made with|water
+sandwiches|filled with|vegetables
+HOLDOUT_SEP
+pasta|served in|bowls
+NEG_SEP
+number|consequence with|english
+they|posing to|patients
+style|showcases|gutsy
+they|pitched|season
+month|seem|effect
+month|described|him
+DOC_SEP
+avalanche|scored for|game
+victory|loss for|islanders
+avalanche|shut|minnesota
+HOLDOUT_SEP
+avalanche|champion of|cup
+NEG_SEP
+minaya|said in|they
+they|challenge|dominance
+you|going|concert
+they|presented|defense
+average|earned in|game
+it|came under|supervision
+DOC_SEP
+artistry|requires|room
+artistry|create gripping|drama
+HOLDOUT_SEP
+artistry|evolved during|life
+NEG_SEP
+artistry|met in|bookstore
+artistry|developed after|census
+it|took in|snow
+he|running for|1982
+years|made at|restaurants
+range|glowing against|sky
+DOC_SEP
+duncan|vulnerable as|deer
+duncan|wants by|owner
+duncan|said after|game
+watson|looking for|trade
+he|said of|duncan
+HOLDOUT_SEP
+duncan|endearing|season
+NEG_SEP
+continent|ride of|expendable
+him|sunday at|p.m.
+way|took to|29
+watson|from|pennsylvania
+demand|plummeted as|struggle
+we|missiles in|alaska
+DOC_SEP
+brokers|accused of|fraud
+commission|announced on|tuesday
+customers|received|price
+customers|defrauding by|orders
+HOLDOUT_SEP
+charges|arising from|investigation
+NEG_SEP
+one|beat in|women
+beck|scored leading|supersonics
+one|said to|mr.
+tuesday|used as|exercise
+you|sell|one
+one|began|effort
+DOC_SEP
+ramos|stood in|classroom
+he|returned see|friends
+i|used walk around|school
+ramos|told in|class
+ramos|cited in|school
+HOLDOUT_SEP
+ramos|branded by|teachers
+NEG_SEP
+school|accused take|clothes
+school|seen as|vehicle
+i|feel at|home
+i|on|starts
+he|gave|morning
+voters|rejected|offers
+DOC_SEP
+researchers|created|transistors
+researchers|making at|promising
+data|claimed|transistors
+data|claimed as|switches
+transistors|catapulted transforming|industry
+scientists|worked as|transistors
+HOLDOUT_SEP
+they|exhibited amplifying|strength
+NEG_SEP
+step|accompanied|chief
+they|sleep|hours
+case|supported in|it
+it|said in|dr.
+they|return to|class
+1890|evoked by|use
+DOC_SEP
+johnson|performed|ceremony
+johnson|priest of|catholic
+bride|met at|university
+she|received from|university
+HOLDOUT_SEP
+she|graduated from|harvard
+NEG_SEP
+back|chairman in|row
+company|derived from|chants
+organizers|urged into|1996
+services|bar in|areas
+he|change allow|apartments
+she|bore in|france
+DOC_SEP
+cases|reviewed under|standards
+government|decided cut|benefits
+denials|lose|benefits
+data|compiled by|show
+HOLDOUT_SEP
+benefits|paid under|program
+NEG_SEP
+members|characterized as|victory
+they|tested under|leadership
+republicans|lobbying for|contract
+daniels|said in|dr.
+groups|move through|program
+combination|install at|charge
+DOC_SEP
+administration|said amid|charges
+department|singles out|minorities
+it|begin releasing|statistics
+police|engage in|profiling
+department|release|variety
+HOLDOUT_SEP
+department|take|actions
+NEG_SEP
+legislation|create by|contrast
+1998|completed for|yards
+mr.|replied after|thought
+people|tannin with|depth
+people|swelling|number
+he|expressed for|profiling
+DOC_SEP
+recordings|available on|cd
+performances|use of|color
+performances|distinguished by|articulation
+poetry|set to|music
+music|madness in|performances
+justice|songs of|freedom
+HOLDOUT_SEP
+album|distinguished by|feeling
+NEG_SEP
+mission|collapses into|turmoil
+work|takes|delight
+them|possible for|microsoft
+them|examine|behavior
+love|said to|ben
+reason|carried on|saturday
+DOC_SEP
+chaplains|spend|time
+chaplains|spend as|soldiers
+minorities|sought|service
+minorities|sought as|way
+HOLDOUT_SEP
+chaplains|serve with|corps
+NEG_SEP
+time|shaving off|trip
+them|used|questionnaires
+it|staved|inspection
+time|pitched|innings
+them|covered with|rice
+professor|appointed by|chaplain
+DOC_SEP
+airways|abandoned|plan
+industries|open to|competition
+heads|demonstrated|level
+HOLDOUT_SEP
+company|introduce|models
+NEG_SEP
+stations|send to|competition
+competition|ended at|323
+years|living in|valley
+us|join as|group
+he|consulted with|avenue
+company|gave|investigators
+DOC_SEP
+lawsuits|turned|him
+money|shaking for|investors
+he|taking at|firms
+he|filing on|behalf
+strategy|courtesy of|firms
+strategy|skirt|laws
+HOLDOUT_SEP
+investors|prevail in|court
+NEG_SEP
+i|remain in|contact
+i|regained|it
+they|uncovered|evidence
+he|lies gathering|force
+employees|offered|chance
+they|provoke in|fact
+DOC_SEP
+hotel|resembles|hostels
+rates|for|rooms
+toilets|shared by|floors
+it|place along|coast
+guests|imitate|namesake
+passageway|includes|store
+HOLDOUT_SEP
+rooms|offer|views
+NEG_SEP
+it|stacked on|floor
+coup|signing|you
+store|posted|gains
+it|period by|public
+it|put|words
+season|suggested|you
+DOC_SEP
+assets|acquire for|sum
+agreement|reaffirms|intention
+it|sell|division
+it|concentrate on|publishing
+it|divest|itself
+HOLDOUT_SEP
+it|bought|publishers
+NEG_SEP
+division|spend tap|reservoir
+members|stole|sale
+it|rely on|sense
+house|broke citing|need
+bernstein|play for|minutes
+walters|said to|mr.
+DOC_SEP
+economy|outflows at|savings
+report|reflected|confidence
+institutions|submit|returns
+americans|filing by|computer
+americans|filing under|service
+HOLDOUT_SEP
+taxpayers|receive|refunds
+NEG_SEP
+they|include|york
+they|hammer of|carpenter
+they|include|garden
+work|maintained at|levels
+service|put on|branch
+they|stretched|cord
+DOC_SEP
+stores|looking for|partner
+site|introduce in|january
+online|stream of|revenue
+online|sees in|access
+analyst|predicted in|report
+HOLDOUT_SEP
+retailer|grows dominate|web
+NEG_SEP
+name|impose on|citizens
+report|said in|michael
+service|based in|ohio
+it|pay|percent
+partner|arriving at|age
+it|survived by|husband
+DOC_SEP
+soldiers|bottled at|outpost
+they|listen to|shots
+they|slam into|walls
+they|listen to|crash
+camera|mounted despite|scopes
+snipers|stationed on|bridge
+palestinians|sneak up to|edge
+they|fire at|us
+they|climb|tree
+shot|drop to|ground
+promises|agreed between|israeli
+israeli|soldiers at|outpost
+HOLDOUT_SEP
+settlement|protects by|israeli
+NEG_SEP
+survey|repeated in|frenzy
+they|held in|university
+race|pits seeking|they
+he|plans use as|building
+they|develop|arms
+they|scored|points
+DOC_SEP
+them|comply with|regulations
+board|sent to|forms
+sellers|provide|buyers
+homes|offered for|sale
+seller|regarding|information
+disclosure|provided by|board
+they|aware of|hazards
+sellers|allow|days
+HOLDOUT_SEP
+inspection|conduct for|conditions
+NEG_SEP
+them|put during|series
+acknowledgment|duets of|style
+they|continues in|angeles
+days|took for|instance
+chicken|ate for|home
+rebounds|averaging through|days
+DOC_SEP
+man|threatened with|knife
+driver|stabbed|passenger
+passenger|took during|dispute
+driver|grabbed|knife
+driver|stabbed|canas
+rose|said in|officer
+canas|taken to|center
+HOLDOUT_SEP
+singh|charged with|assault
+NEG_SEP
+work|expanded|number
+transformation|started in|may
+itself|lend in|problem
+problem|involved at|hospital
+man|making in|harmony
+DOC_SEP
+countries|take because of|affair
+countries|action against|austria
+problems|stem|sluggishness
+economy|slowed to|crawl
+HOLDOUT_SEP
+unemployment|expected climb to|average
+NEG_SEP
+problems|ranged from|damage
+group|said to|tony
+important|warming from|concept
+issues|share|development
+they|received|assistance
+company|said to|they
+DOC_SEP
+moss|died on|friday
+moss|joined as|president
+moss|native of|bronx
+HOLDOUT_SEP
+moss|president of|exchange
+NEG_SEP
+he|at|alabama
+president|presided in|end
+i|try leave|he
+he|like at|home
+he|put in|storage
+lawyer|said in|charles
+DOC_SEP
+kerrey|sworn as|senator
+buddies|attended in|1983
+kerrey|officer of|seals
+inauguration|marked after|seals
+HOLDOUT_SEP
+buddies|watched in|tuesday
+NEG_SEP
+tuesday|took against|citizens
+you|struggling in|groups
+you|want know about|it
+mansion|continue add through|acquisitions
+he|said in|douglas
+silhouette|lose|value
+DOC_SEP
+owners|approved to|group
+group|led by|henry
+they|passed|opportunity
+play|execute in|cities
+owners|approve|transactions
+selig|wants eliminate in|plan
+HOLDOUT_SEP
+transactions|come for|vote
+NEG_SEP
+plan|tried by|parents
+it|relegate in|years
+person|chartered|boat
+marlins|play|games
+bloomberg|said in|henry
+it|erupted over|month
+DOC_SEP
+data|compiled from|research
+nothing|illustrates|mismatch
+ads|aimed at|them
+data|illuminate|breadth
+data|focusing on|groups
+various|groups with|ads
+mismatch|pronounced on|cable
+HOLDOUT_SEP
+mismatch|seems|pronounced
+NEG_SEP
+nielsen|in|sense
+one|play|falco
+bloomberg|plummeted|points
+months|announced to|break
+they|sitting on|bills
+they|like|parcells
+DOC_SEP
+clinton|in|state
+he|chosen as|issue
+battles|lie in|congress
+clinton|resist|review
+he|devoted to|things
+he|expropriated|issues
+republicans|hoped use against|him
+clinton|celebrated on|economy
+he|spoke at|length
+HOLDOUT_SEP
+he|pledged seek|reform
+NEG_SEP
+him|lives in|plains
+things|drives|mother
+reason|cordon|zones
+he|said in|rick
+end|arranged by|friends
+plan|succeeded by|jr.
+DOC_SEP
+employees|accused of|rights
+rights|swept in|investigations
+rights|swept under|law
+department|police|itself
+office|received|complaints
+workers|employed in|several
+accusations|made against|employees
+HOLDOUT_SEP
+department|continuing review|accusations
+NEG_SEP
+department|carried to|victory
+several|neighborhood of|houston
+it|tell|nothing
+several|pumped praising|cleanup
+it|represent|life
+i|describe as|concern
+DOC_SEP
+scott|died at|infirmary
+he|born in|jamaica
+he|professor at|school
+HOLDOUT_SEP
+he|died after|illness
+NEG_SEP
+it|contained|states
+he|filled setting|experience
+he|cat in|carrier
+he|making|return
+work|offer for|runoff
+caribbean|sued within|days
+DOC_SEP
+justice|removed for|series
+commission|said in|report
+judge|justice for|years
+judge|compromised|office
+report|issued in|yesterday
+HOLDOUT_SEP
+commission|concerned with|attitude
+NEG_SEP
+man|wore in|person
+court|city of|kwangju
+he|including|diaries
+we|used take|he
+office|spent on|hotel
+commission|sin of|humankind
+DOC_SEP
+californians|buying|guns
+shotgun|commodity during|riots
+shotgun|became|commodity
+they|embarrassed by|fear
+many|felt buy|weapon
+agent|describe|collection
+HOLDOUT_SEP
+he|bought|rifle
+NEG_SEP
+he|comes at|time
+kind|influence of|filmmakers
+collection|closes with|meditation
+agent|daughter of|sidney
+areas|growing|wars
+collection|intended for|show
+DOC_SEP
+company|formed hold|inc.
+results|reflect|period
+company|acquired in|april
+HOLDOUT_SEP
+companies|combined on|jan
+NEG_SEP
+time|made|catch
+companies|park on|street
+time|stopped on|day
+financial|send return to|shareholder
+europeans|start as|time
+company|shipped to|terminals
+DOC_SEP
+march|short on|numbers
+he|took|podium
+we|start|riot
+i|promises about|tomorrow
+hundreds|thrust into|air
+HOLDOUT_SEP
+audience|roared in|agreement
+NEG_SEP
+he|saw in|theater
+agreement|happen to|east
+he|died of|failure
+promises|version of|version
+problems|open to|competition
+we|support as|people
+DOC_SEP
+department|estimated in|today
+cleanup|caused by|production
+report|expanded on|study
+figures|include|cost
+figures|released in|today
+report|projected|cost
+report|criticized by|glenn
+HOLDOUT_SEP
+study|underestimated|costs
+NEG_SEP
+seat|transformed for|today
+plants|taken to|slaughterhouse
+attempt|scored in|period
+he|made during|speech
+available|types of|information
+lozada|president of|country
+DOC_SEP
+ferrer|supports|penalty
+ferrer|preparing run as|rican
+ferrer|contends in|speeches
+ferrer|fashioning in|effect
+HOLDOUT_SEP
+he|win|support
+NEG_SEP
+effect|dipped into|digits
+him|retired as|lawyer
+part|began with|removal
+artists|obscure in|support
+he|identified as|worldwide
+it|made|part
+DOC_SEP
+premiere|events of|time
+crowds|stormed|theater
+tickets|sold for|high
+manuscript|remains|drama
+HOLDOUT_SEP
+play|closed after|performance
+NEG_SEP
+performance|disguise|impression
+time|keep in|rotation
+it|tucked into|drawer
+drama|assessed as|reaction
+donations|made in|tickets
+play|wanted|money
+DOC_SEP
+team|came at|meadowlands
+team|scored in|period
+team|squad in|history
+sabres|tie in|period
+devils|inspired by|goals
+devils|attained|advantage
+HOLDOUT_SEP
+devils|need|victory
+NEG_SEP
+gardener|know about|it
+one|surfaced mesmerizing|city
+it|uses among|ingredients
+many|discovered in|beijing
+you|serve|him
+many|provides|measure
+DOC_SEP
+companies|take|stakes
+companies|take as|precursors
+they|expect|moves
+bank|owned|percent
+street|took|stance
+we|taking at|word
+HOLDOUT_SEP
+company|taken by|group
+NEG_SEP
+carter|claim in|particular
+it|talked to|them
+board|look like|disneyland
+we|talk about|it
+marshall|includes by|complex
+it|hears|touches
+DOC_SEP
+smith|stripped after|months
+she|with|police
+she|faced|accusations
+smith|remove as|chairwoman
+smith|remove from|post
+she|respond asking for|comment
+HOLDOUT_SEP
+smith|involved in|controversies
+NEG_SEP
+addition|expected for|philips
+she|posted|rating
+she|found|material
+they|found|they
+smith|hit|fly
+guitar|sound in|years
+DOC_SEP
+williams|treated to|dinner
+bill|included|dinners
+HOLDOUT_SEP
+cigars|added to|bill
+NEG_SEP
+he|selling to|consortium
+coleman|said in|mr.
+emergence|occasion for|restaurant
+guerrillas|repulsed at|shooting
+incremental|retreat over|hours
+he|begin in|september
+DOC_SEP
+flooding|news for|residents
+rains|turned about|basement
+water|seeps into|basements
+gutters|cause|water
+leaders|drain|gutters
+HOLDOUT_SEP
+they|deposit|water
+NEG_SEP
+board|names in|business
+business|solved|problems
+house|asked in|appeal
+one|gives above|waterline
+they|support|ceiling
+run|hit off|house
+DOC_SEP
+tax|pushed through|legislature
+tax|adopted on|thursday
+he|ordered over|summer
+he|vetoed as|governor
+figures|demanded|change
+HOLDOUT_SEP
+figure|prolongs|turmoil
+NEG_SEP
+he|brought in|bomb
+he|going get as|strike
+family|in|connecticut
+he|scooped with|gusto
+d.|weave|lies
+first|performance by|rookie
+DOC_SEP
+house|gave to|bill
+members|voted in|favor
+vote|expected in|week
+government|pushed through|legislation
+liberals|cut in|house
+HOLDOUT_SEP
+liberals|introduced on|monday
+NEG_SEP
+line|grew awaiting|introduction
+aqueduct|hemorrhaging|week
+monday|based on|estimates
+bill|leader of|senate
+bill|given|museum
+house|taken on|tour
+DOC_SEP
+they|humiliated by|rangers
+islanders|called|conference
+he|step down as|coach
+HOLDOUT_SEP
+it|quits after|seasons
+NEG_SEP
+she|join at|they
+they|buy in|general
+mind|spun siting|four
+we|put sleep with|he
+he|win|confidence
+it|linking with|college
+DOC_SEP
+brazil|suspended in|february
+brazil|acknowledged at|end
+brazil|embarked on|negotiations
+brazil|with|debt
+HOLDOUT_SEP
+brazil|paid on|monday
+NEG_SEP
+it|returned after|days
+it|evacuated to|states
+february|hang on|call
+package|designed for|packages
+tours|offer|deal
+mandela|called on|brazil
+DOC_SEP
+house|prepared pass|legislation
+advisers|recommend that|veto
+legislation|containing for|system
+ability|restricts by|bill
+HOLDOUT_SEP
+house|warned block|efforts
+NEG_SEP
+money|spend|pages
+they|resented|them
+they|receive|abortions
+we|present|president
+fleischer|said in|thursday
+DOC_SEP
+fire|spread through|disco
+officials|confirmed|bodies
+disco|packed with|students
+dozens|injured|many
+others|trampled in|rush
+flames|catch|clothes
+cries|added to|chaos
+firefighters|put|blaze
+HOLDOUT_SEP
+people|searching for|relatives
+NEG_SEP
+others|account for|percent
+we|add|flavor
+many|torn|reports
+month|testament at|best
+it|agrees sail for|country
+many|starts in|grade
+DOC_SEP
+officer|charged in|death
+woman|carried|sign
+officer|cleared by|jury
+they|predicted|outcome
+petersburg|cleared after|officer
+violence|erupt despite|anger
+HOLDOUT_SEP
+witness|participant in|scuffle
+NEG_SEP
+chances|win in|they
+officer|offered from|package
+they|specializes in|carpets
+demonstrators|organizing in|countryside
+velvet|sprouting from|pavement
+they|make|rules
+DOC_SEP
+agency|rejected|assertions
+agency|singled in|commentary
+investigators|article on|march
+suspect|dismissed for|infractions
+suspect|scientist at|laboratory
+accusations|appeared as|countries
+accusations|appeared preparing for|visit
+HOLDOUT_SEP
+he|charged with|crime
+NEG_SEP
+visit|concerned at|party
+he|traded|him
+profits|reported in|march
+them|home to|investigators
+visit|graduate of|yale
+he|thrive on|challenges
+DOC_SEP
+accords|negotiated by|officers
+change|approved by|board
+officials|spoke on|condition
+percent|voted against|contract
+drivers|working under|agreement
+HOLDOUT_SEP
+teamsters|covers by|agreement
+NEG_SEP
+change|address|value
+resistance|elevated into|art
+change|pays|homage
+change|enjoying|business
+change|go for|run
+flights|sign of|changes
+DOC_SEP
+carter|pleaded to|charges
+prosecutors|investigating from|agents
+carter|released on|bond
+HOLDOUT_SEP
+carter|indicted in|month
+NEG_SEP
+he|go into|albertville
+bond|changes by|assertion
+charges|sale of|software
+he|remember|fraud
+necessary|make to|plants
+he|teamed with|him
+DOC_SEP
+officials|exposed during|renovation
+plumbers|disturbed|insulation
+dust|drifted into|hall
+worker|swept at|point
+workers|finishing|renovation
+we|exposed during|renovation
+HOLDOUT_SEP
+asbestos|find in|air
+NEG_SEP
+demolition|group in|charge
+they|climb by|end
+trade|reported in|it
+cancer|combines by|administration
+association|continuing to|names
+it|called|partners
+DOC_SEP
+groups|submitted|bids
+pataki|review|bids
+pataki|recommend|one
+governor|take|office
+HOLDOUT_SEP
+governor|begin|process
+NEG_SEP
+office|said of|wright
+residents|signed|legislators
+one|register on|tests
+governor|in|house
+anderson|said in|one
+troops|forget|operations
+DOC_SEP
+gill|hoped in|season
+gill|hoped waking|team
+gill|contributed|spark
+gill|return to|lineup
+gill|said after|practice
+HOLDOUT_SEP
+gill|force behind|team
+NEG_SEP
+works|fill|feet
+gill|pit outside|park
+gill|mentioned behind|pickens
+gill|begun floating|idea
+it|run in|small
+he|responds in|tone
+starts|made on|birthday
+DOC_SEP
+board|voted on|tuesday
+board|voted bar|officials
+changes|recommend to|laws
+HOLDOUT_SEP
+commission|develop|laws
+NEG_SEP
+we|in|jazz
+town|known as|site
+i|advanced in|berlin
+approach|music in|setting
+vote|placed to|leaders
+i|write|book
+DOC_SEP
+they|victims of|discrimination
+judge|dealt in|battle
+firm|engaged against|women
+complaints|consider|finding
+complaints|arose from|suit
+finding|came in|decision
+decision|awarded to|sumner
+suit|filed by|commission
+HOLDOUT_SEP
+finding|using in|hearings
+NEG_SEP
+sumner|said to|musa
+kennedy|disqualified in|case
+they|stayed|he
+they|conduct|crackdown
+they|upgraded|possibilities
+decision|faced with|opposition
+DOC_SEP
+candidates|face|prospect
+changes|diminish|prospects
+HOLDOUT_SEP
+candidates|rethink|strategies
+NEG_SEP
+shiites|create|opening
+winners|get preside over|primaries
+they|play by|ear
+changes|mesh with|sensibility
+john|bought|it
+york|bought in|indiana
+DOC_SEP
+farrell|awarded by|president
+farrell|choreographer of|suzanne
+winners|chosen by|endowment
+HOLDOUT_SEP
+winners|honor for|excellence
+NEG_SEP
+president|seek|re-election
+president|refused allow|grants
+george|tried influence|conclusions
+guy|starts with|kid
+george|closed because of|strike
+excellence|reports about|condition
+DOC_SEP
+prisoner|forced|woman
+prisoner|raped|her
+charges|escaped from|hospital
+prisoner|held on|charges
+HOLDOUT_SEP
+inmate|escaped through|window
+NEG_SEP
+officials|arrived in|york
+games|shown in|search
+she|turned|it
+love|follows|james
+they|learned from|her
+it|reduce by|half
+DOC_SEP
+adams|given for|murder
+adams|convicted|trial
+hearing|provide|airing
+hearing|airing in|case
+adams|discharge from|army
+officials|involved in|prosecution
+officers|contacted|police
+HOLDOUT_SEP
+he|killed|officer
+NEG_SEP
+he|consists of|elements
+adams|inched in|st
+adams|said to|dr.
+adams|lived in|asia
+prayer|cure|life
+man|knocked on|they
+DOC_SEP
+diseases|cause by|mechanism
+proteins|known cause|diseases
+proteins|produced by|gene
+virus|identical to|proteins
+HOLDOUT_SEP
+proteins|eat at|brain
+NEG_SEP
+it|cleaning from|visitors
+they|bring mind|compliment
+control|introduced in|yesterday
+control|persuade in|house
+others|in|school
+lawsuit|filed in|one
+DOC_SEP
+woman|fell on|street
+she|lay at|street
+victim|pronounced dead in|p.m.
+husband|charged with|murder
+suspect|pushed after|argument
+suspect|pushed out|window
+HOLDOUT_SEP
+blood|found on|carpet
+NEG_SEP
+she|violate|law
+police|go through|training
+team|created|argument
+pataki|extend for|she
+she|left|society
+street|bright by|bah
+DOC_SEP
+ship|slammed into|center
+ship|slammed leaving with|injuries
+company|attributed to|failure
+vessel|rammed into|piers
+vessel|created|pandemonium
+HOLDOUT_SEP
+rescuers|evacuated|hundreds
+NEG_SEP
+moore|came under|failure
+they|stopped|campaigning
+party|said in|ian
+law|full of|they
+i|learned from|him
+leaves|put in|expressions
+DOC_SEP
+rebels|captured|city
+military|fled at|rumor
+defense|consisted of|soldiers
+defense|recruited from|camps
+HOLDOUT_SEP
+rebels|died in|battle
+NEG_SEP
+it|seems|inevitable
+it|survived|daughters
+branches|included in|2000
+chicago|director of|operations
+rest|set for|removal
+they|won|games
+DOC_SEP
+group|began|negotiations
+group|spiraling|violence
+leaders|met discuss|agenda
+demands|sources of|income
+rebels|resisted|demands
+HOLDOUT_SEP
+rebels|demanding|price
+NEG_SEP
+team|won in|1984
+income|losses for|1992
+he|threw over|agenda
+government|gathered by|analysts
+they|practice in|government
+leaders|spent on|commercials
+DOC_SEP
