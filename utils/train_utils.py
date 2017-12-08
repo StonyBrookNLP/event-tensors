@@ -190,7 +190,7 @@ class InputTargetIterator:
 
 class EventPredQueuedInstances(RandomizedQueuedInstances):
     'This class is like RandomizedQueuedInstances, with a couple changes so it can be used for event prediction objective'
-    def __init__(self, svo_file, neg_svo_file, embeddings, num_queues, batch_size):
+    def __init__(self, svo_file, neg_svo_file, embeddings, num_queues, batch_size, max_phrase_size):
         """
         dset should be a (possibly chained) Dataset iterator
         embeddings should be a Glove object
@@ -199,8 +199,8 @@ class EventPredQueuedInstances(RandomizedQueuedInstances):
         self.num_queues=num_queues
         self.maxlen=batch_size
         self.queues = [deque(maxlen=self.maxlen) for i in range(num_queues)]
-        self.instances=iter(InputTargetIterator(dataset.DocOpenIE_Dataset(svo_file), embeddings))
-        self.neg_instances=iter(NegativeInstances(dataset.OpenIE_Dataset(neg_svo_file), embeddings))
+        self.instances=iter(InputTargetIterator(dataset.DocOpenIE_Dataset(svo_file), embeddings, max_phrase_size))
+        self.neg_instances=iter(NegativeInstances(dataset.OpenIE_Dataset(neg_svo_file), embeddings, max_phrase_size))
         self.processed = 0 #how many instances we have generated
     
     def fill_queue(self):

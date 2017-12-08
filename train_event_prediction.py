@@ -325,7 +325,6 @@ def prediction_network(input_ph, target_ph, neg_ph, embeddings):
     indices = np.array([[b,x] for b in range(FLAGS.batch_size) for x in range(FLAGS.max_phrase_size)], dtype=np.int64)
 
     with tf.variable_scope("Network") as scope:
-        print("Using get_embedding()")
         if FLAGS.role_factor:
             input_embed, tensor,W= role_factor_network(input_ph, embeddings, indices)  #tensor where rows are embeddings
             scope.reuse_variables()
@@ -403,7 +402,7 @@ def train_prediction_network(instances, embeddings):
             avg_loss2 +=(loss_val/10000)
 #            print(loss_val)
             
-            if i % 200 == 0:
+            if i % 50 == 0:
                 print("Average Loss on {} is {}".format(i, avg_loss))
                 avg_loss =0
             if i % 10000 == 0:
@@ -417,12 +416,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--learning_rate', type=float, default=0.01, help='Initial Learning Rate')
     parser.add_argument('--batch_size', type=int, default=128, help='Minibatch size')
-    parser.add_argument('--embedding_file', type=str, default='../data/glove.6B.100d.txt', help='File containing pre trained Glove word embeddings')
-    parser.add_argument('--svo_file', type=str, default='../data/open_ie_tuples_data_shuff.txt', help='File containing svo triple + sentence pairs in the form (on each line): subject|verb|object|sentence')
-    parser.add_argument('--neg_svo_file', type=str, default='../data/neg_open_ie_tuples_data_shuff.txt', help='File containing negative instance svo triple + sentence pairs in the form (on each line): subject|verb|object|sentence')
+    parser.add_argument('--embedding_file', type=str, default='data/glove.6B.100d.txt', help='File containing pre trained Glove word embeddings')
+    parser.add_argument('--svo_file', type=str, default='data/ollie_extraction_data_newform_rand_dev.txt', help='Main training file') #The file passed in here should have the same form as ...dev.txt, you SHOULD NOT use this for training obviously
+    parser.add_argument('--neg_svo_file', type=str, default='data/negative_examples_part.txt', help='Negative instances')
     parser.add_argument('--neg_samples', type=int, default=512, help='How many negative samples to use in the sampled softmax objective')
     parser.add_argument('--epochs', type=int, default=1, help='How many passes through the data to make')
-    parser.add_argument('--checkpoint_file', type=str, default='../checkpoints/model.ckt')
+    parser.add_argument('--checkpoint_file', type=str, default='checkpoints/model.ckt')
     parser.add_argument('--max_phrase_size', type=int, default=10, help='The largest size of a phrase in which to average together as input')
     parser.add_argument('--restore_point', type=str, default='tensor_gen_resume/model.ckt')
     parser.add_argument('--resume', action="store_true")
@@ -443,7 +442,7 @@ if __name__ == "__main__":
 
     FLAGS = parser.parse_args()
     embeddings=Glove(FLAGS.embedding_file)
-    instances=EventPredQueuedInstances(FLAGS.svo_file, FLAGS.neg_svo_file, embeddings, FLAGS.num_queues, FLAGS.batch_size)
+    instances=EventPredQueuedInstances(FLAGS.svo_file, FLAGS.neg_svo_file, embeddings, FLAGS.num_queues, FLAGS.batch_size, FLAGS.max_phrase_size)
     train_prediction_network(instances, embeddings)
 
 

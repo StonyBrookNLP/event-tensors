@@ -309,8 +309,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--learning_rate', type=float, default=0.01, help='Initial Learning Rate') #This learning rate works good across all methods
     parser.add_argument('--batch_size', type=int, default=128, help='Minibatch size')
-    parser.add_argument('--embedding_file', type=str, default='../data/glove.6B.100d.txt', help='File containing pre trained Glove word embeddings')
-    parser.add_argument('--svo_file', type=str, default='../data/ollie_extraction_data_newform_rand_train.txt', help='File containing svo triple + sentence pairs in the form (on each line): subject|verb|object|sentence')
+    parser.add_argument('--embedding_file', type=str, default='data/glove.6B.100d.txt', help='File containing pre trained Glove word embeddings')
+    parser.add_argument('--svo_file', type=str, default='data/ollie_extraction_data_newform_rand_dev.txt', help='Main training data') #dont use this default if actaully training, this is just an example
     parser.add_argument('--neg_samples', type=int, default=512, help='How many samples to use in the sampled softmax objective')
     parser.add_argument('--epochs', type=int, default=1, help='How many passes through the data to make')
     parser.add_argument('--checkpoint_file', type=str, default='../checkpoints/model.ckt', help='Where to save the model')
